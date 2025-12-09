@@ -114,7 +114,7 @@ const Register = () => {
                     <div className="card-body py-8">
                         <h1 className="text-3xl font-bold text-center">Register now!</h1>
 
-                        <p className='text-center  text-gray-600 font-stretch-90%'>Already have an account?<Link to='/login' className='text-blue-700 font-stretch-90% underline'>Login Now</Link></p>
+                        <p className='text-center  text-gray-600 '>Already have an account?<Link to='/login' className='text-blue-700  underline'>Login Now</Link></p>
 
 
                         <form onSubmit={handleRegister}>
