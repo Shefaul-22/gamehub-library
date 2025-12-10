@@ -34,8 +34,8 @@ const Login = () => {
     const handleLogIn = (e) => {
 
         e.preventDefault();
-        const email = e.target.form.email.value;
-        const password = e.target.form.password.value;
+        const email = e.target.email.value;
+        const password = e.target.password.value;
         // console.log(email, password)
 
         signIn(email, password)

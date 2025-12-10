@@ -5,12 +5,13 @@ import { Link, Navigate, useNavigate } from 'react-router';
 import { FcGoogle } from 'react-icons/fc';
 import { FaEye, FaEyeSlash } from 'react-icons/fa';
 import { AuthContext } from '../../provider/AuthProvider';
+import { updateProfile } from 'firebase/auth';
 
 
 
 const Register = () => {
 
-    const { createUser, signInWithGoogle, setUser } = use(AuthContext)
+    const { createUser, signInWithGoogle, setUser, logOutUser } = use(AuthContext)
     const [showPassword, setShowPassword] = useState(false)
 
     const [success, setSuccess] = useState(false)
@@ -72,9 +73,19 @@ const Register = () => {
             .then(result => {
                 const user = result.user;
                 // console.log(user);
-                const updateUser = { ...user, displayName: name, photoURL: image }
-                setUser(updateUser);
-                navigate("/login");
+                updateProfile(user, {
+                    displayName: name,
+                    photoURL: image
+                }).then(() => {
+                    logOutUser()
+                        .then(() => {
+                            navigate("/login");  // Go to login page
+                        })
+
+                }).catch(error => {
+                    alert(error.message);
+                });
+
             })
             .catch(error => {
                 alert(error.message);

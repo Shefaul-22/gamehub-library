@@ -9,7 +9,7 @@ import { AuthContext } from '../../provider/AuthProvider';
 const Navbar = () => {
 
     const { user, logOutUser } = use(AuthContext);
-    // console.log(user)
+    console.log(user)
 
     const handleSignOut = () => {
         logOutUser()
@@ -85,8 +85,8 @@ const Navbar = () => {
                             <img
                                 className='w-8 h-8 rounded-full ring ring-primary ring-offset-base-100 ring-offset-2'
 
-                                alt="User"
-                                src={user.photoURL ? user.photoURL : "https://i.ibb.co.com/JWv2ftcD/usericon.jpg"}
+                                alt=""
+                                src={user.photoURL ? user.photoURL : "https://i.ibb.co.com/tT9bR7hV/image.png"}
                             />
                         </div>
 
