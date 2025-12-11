@@ -81,7 +81,7 @@ const Navbar = () => {
                         <div className="mr-2">
                             <Link to="/userDetails">
                                 <img
-                                    className='w-8 h-8 rounded-full ring ring-primary ring-offset-base-100 ring-offset-2'
+                                    className='w-9 h-9 rounded-full ring ring-primary ring-offset-base-100 ring-offset-2'
 
                                     alt=""
                                     src={user.photoURL ? user.photoURL : "https://i.ibb.co.com/tT9bR7hV/image.png"}
@@ -92,7 +92,7 @@ const Navbar = () => {
                         <div>
                             <button
                                 onClick={handleSignOut}
-                                className="btn btn-primary py-4 btn-sm w-full text-white"
+                                className="btn btn-primary py-[18px] btn-sm w-full text-white"
                             >Log Out
                             </button>
                         </div>
