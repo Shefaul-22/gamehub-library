@@ -82,12 +82,14 @@ const Navbar = () => {
 
 
                         <div className="mr-2">
-                            <img
-                                className='w-8 h-8 rounded-full ring ring-primary ring-offset-base-100 ring-offset-2'
+                            <Link to="/userDetails">
+                                <img
+                                    className='w-8 h-8 rounded-full ring ring-primary ring-offset-base-100 ring-offset-2'
 
-                                alt=""
-                                src={user.photoURL ? user.photoURL : "https://i.ibb.co.com/tT9bR7hV/image.png"}
-                            />
+                                    alt=""
+                                    src={user.photoURL ? user.photoURL : "https://i.ibb.co.com/tT9bR7hV/image.png"}
+                                />
+                            </Link>
                         </div>
 
                         <div>
