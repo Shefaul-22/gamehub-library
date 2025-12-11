@@ -19,6 +19,10 @@ const Allgames = () => {
     }, [])
 
 
+    useEffect(() => {
+        document.title = 'All Games | GameHubLibrary';
+    }, []);
+
     if (loading) {
         return <Loading></Loading>
     }
@@ -26,7 +30,7 @@ const Allgames = () => {
 
     return (
         <div className='bg-[#bdd7e7]'>
-            <div className='py-14 md:py-20  px-4 mt-5 md:mt-10'>
+            <div className='py-14 md:py-20  px-8 md:px-4 mt-5 md:mt-10'>
                 <h2 className='font-bold text-center text-5xl mb-4'>All Games</h2>
                 <p className='text-center text-xs md:text-xl text-gray-800'>Explore All games on our website developed by Unity</p>
 

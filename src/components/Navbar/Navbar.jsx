@@ -26,9 +26,9 @@ const Navbar = () => {
 
 
         <li><NavLink to="/" className={({ isActive }) =>
-            `btn btn-primary mr-3 mb-2 ${isActive ? "!bg-yellow-500 " : ""}`}>Home</NavLink></li>
+            `btn btn-primary mr-3 mb-2 ${isActive ? "!bg-yellow-500 " : "" }`} end>Home</NavLink></li>
         <li><NavLink to="/allGames" className={({ isActive }) =>
-            `btn btn-primary mr-3 mb-2 ${isActive ? "!bg-yellow-500 " : ""}`}>All Games</NavLink>
+            `btn btn-primary mr-3 mb-2 ${isActive ? "!bg-yellow-500 " : ""}` } end>All Games</NavLink>
         </li>
 
 
@@ -55,7 +55,10 @@ const Navbar = () => {
                 </div>
                 <div className='flex justify-center items-center gap-1 '>
 
-                    <a className=" text-2xl md:text-3xl font-bold text-white">Gamehub<span className='text-yellow-300 font-bold'>Library</span></a>
+                    <img className='w-7 h-7 md:w-11 md:h-11 ' src={`https://i.ibb.co.com/WN1Jrg3N/image.png`} alt="Logo" />
+
+
+                    <a className=" text-xl md:text-3xl font-bold text-white">Gamehub<span className='text-yellow-300 font-bold'>Library</span></a>
                 </div>
             </div>
 
@@ -106,8 +109,7 @@ const Navbar = () => {
                         <NavLink
                             to="/register"
                             className={({ isActive }) =>
-                                `btn btn-primary mr-3 mb-2 transition-all duration-200
-             ${isActive ? "!bg-yellow-500 " : ""}`
+                                `btn btn-primary mr-3 mb-2 transition-all duration-200 ${isActive ? "!bg-yellow-500 " : ""}`
                             }
                         >
                             Register
@@ -116,8 +118,7 @@ const Navbar = () => {
                         <NavLink
                             to="/login"
                             className={({ isActive }) =>
-                                `btn btn-primary mr-3 mb-2 transition-all duration-200
-             ${isActive ? "!bg-yellow-500" : ""}`
+                                `btn btn-primary mr-3 mb-2 transition-all duration-200 ${isActive ? "!bg-yellow-500" : ""}`
                             }
                         >
                             Login

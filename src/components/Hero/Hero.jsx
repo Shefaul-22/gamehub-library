@@ -32,7 +32,7 @@ const Hero = () => {
         controls.start({
             x: [-0, -width],
             transition: {
-                duration: 16,
+                duration: 12,
                 repeat: Infinity,
                 ease: "linear"
             }
@@ -54,7 +54,7 @@ const Hero = () => {
         controls.start({
             x: [-0, -width],
             transition: {
-                duration: 16,
+                duration: 12,
                 repeat: Infinity,
                 ease: "linear"
             }

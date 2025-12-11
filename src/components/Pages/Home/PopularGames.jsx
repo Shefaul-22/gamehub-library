@@ -15,7 +15,7 @@ const PopularGames = ({ gamesData }) => {
     console.log(popularGamesData);
 
     return (
-        <div className='bg-[#bdd7e7] py-14 md:py-20  px-4'>
+        <div className='bg-[#bdd7e7] py-14 md:py-20  px-8 md:px-4'>
             <h2 className='font-bold text-center text-5xl mb-4'>Popular Games</h2>
             <p className='text-center text-xs md:text-xl text-gray-800'>Explore All Popular games on the Market developed by Unity</p>
 

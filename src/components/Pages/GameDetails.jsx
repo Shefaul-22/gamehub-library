@@ -34,6 +34,11 @@ const GameDetails = () => {
     const singleGame = gamesData.find(game => game.id === id);
     console.log(singleGame);
 
+    useEffect(() => {
+        document.title = singleGame ? `${singleGame.title} | GameHubLibrary` : 'Game Details | GameHubLibrary';
+    }, [singleGame]);
+
+
     if (loading) {
         return <Loading></Loading>
     }
