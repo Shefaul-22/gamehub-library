@@ -72,6 +72,11 @@ const Login = () => {
             })
     }
 
+    const handleForgotPassword = () => {
+        const email = emailRef.current.value;
+        navigate(`/forgotPassword?email=${encodeURIComponent(email)}`);
+    };
+
     // password show
     const handlePasswordShow = (e) => {
         e.preventDefault();
@@ -121,7 +126,9 @@ const Login = () => {
                             </button>
                         </div>
 
-                        <div><Link to="/resetPassword" className="link link-hover">Forgot password?</Link></div>
+                        <div>
+                            <button onClick={handleForgotPassword} className="link link-hover">Forgot password?</button>
+                        </div>
 
                         {
                             error && <p className='text-red-400'>{error}</p>

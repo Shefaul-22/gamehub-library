@@ -8,6 +8,7 @@ import Allgames from '../components/Pages/Allgames';
 import GameDetails from '../components/Pages/GameDetails';
 import PrivateRoute from '../provider/PrivateRoute';
 import UserDetails from '../components/Pages/UserDetails';
+import ForgotPassword from '../components/Pages/ForgotPassword';
 
 const router = createBrowserRouter([
 
@@ -53,8 +54,8 @@ const router = createBrowserRouter([
             },
 
             {
-                path: "resetPassword",
-                Component: 
+                path: "forgotPassword",
+                Component: ForgotPassword
             }
         ]
     },
