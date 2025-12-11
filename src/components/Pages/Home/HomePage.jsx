@@ -1,6 +1,7 @@
 import React from 'react';
 import { useLoaderData } from 'react-router';
 import PopularGames from './PopularGames';
+import Hero from '../../Hero/Hero';
 
 const HomePage = () => {
 
@@ -11,6 +12,7 @@ const HomePage = () => {
     return (
         <div>
 
+            <Hero></Hero>
             <PopularGames gamesData={gamesData}></PopularGames>
         </div>
     );
