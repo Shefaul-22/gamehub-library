@@ -50,6 +50,11 @@ const router = createBrowserRouter([
             {
                 path: "userDetails",
                 element: <PrivateRoute><UserDetails></UserDetails></PrivateRoute>
+            },
+
+            {
+                path: "resetPassword",
+                Component: 
             }
         ]
     },
