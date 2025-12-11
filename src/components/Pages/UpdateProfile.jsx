@@ -1,7 +1,7 @@
 import React, { useState, useContext } from "react";
 import { useNavigate } from "react-router";
 import { AuthContext } from "../../provider/AuthProvider";
-import { div } from "framer-motion/client";
+
 
 const UpdateProfile = () => {
 
@@ -30,13 +30,14 @@ const UpdateProfile = () => {
             setTimeout(() => {
                 navigate("/userDetails");
             }, 1200);
-        } catch (err) {
-            setError(err.message);
+        } 
+        catch (error) {
+            setError(error.message);
         }
     };
 
     return (
-        <div className="bg-[#bdd7e7]">
+        <div className="bg-[#bdd7e7] py-6 md:py-16">
             <div className="max-w-md mx-auto mt-20 p-6 bg-white rounded-lg shadow-md">
                 <h2 className="text-2xl font-bold mb-6 text-center">Update Profile</h2>
                 <form onSubmit={handleUpdate} className="flex flex-col gap-4">
@@ -58,7 +59,7 @@ const UpdateProfile = () => {
                     />
                     <button
                         type="submit"
-                        className="bg-blue-500 text-white py-2 rounded hover:bg-blue-600 transition"
+                        className="bg-blue-500 text-white py-2 rounded hover:bg-blue-600 transition cursor-pointer"
                     >
                         Update Profile
                     </button>

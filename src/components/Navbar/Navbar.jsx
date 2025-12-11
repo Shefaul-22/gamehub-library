@@ -78,13 +78,13 @@ const Navbar = () => {
 
 
 
-                        <div className="mr-2">
+                        <div className="mr-2 mt-0">
                             <Link to="/userDetails">
                                 <img
                                     className='w-9 h-9 rounded-full ring ring-primary ring-offset-base-100 ring-offset-2'
 
                                     alt=""
-                                    src={user.photoURL ? user.photoURL : "https://i.ibb.co.com/tT9bR7hV/image.png"}
+                                    src={user.photoURL ? user.photoURL : "https://ibb.co.com/G4qVmKJz"}
                                 />
                             </Link>
                         </div>
