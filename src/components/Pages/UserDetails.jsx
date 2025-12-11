@@ -1,11 +1,15 @@
-import React, { use } from 'react';
+import React, { useContext } from 'react';
+import { useNavigate } from 'react-router';
 import { AuthContext } from '../../provider/AuthProvider';
-
 
 const UserDetails = () => {
 
-    const { user } = use(AuthContext);
-    console.log(user);
+    const { user } = useContext(AuthContext);
+    const navigate = useNavigate();
+
+    const handleUpdateProfile = () => {
+        navigate('/updateProfile'); 
+    };
 
     return (
         <div className='bg-white'>
@@ -26,11 +30,18 @@ const UserDetails = () => {
                         <p className="text-sm text-gray-400 mt-1">
                             {user.emailVerified ? "Email Verified" : "Email Not Verified"}
                         </p>
+
+                        {/* Update Button */}
+                        <button
+                            onClick={handleUpdateProfile}
+                            className="mt-4 bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600 transition"
+                        >
+                            Update Profile
+                        </button>
                     </div>
                 </div>
 
-                {/*   details */}
-                
+                {/* User details grid */}
                 <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
                     <div className="p-4 bg-gray-50 rounded-xl">
                         <h3 className="text-sm font-semibold text-gray-500">UID</h3>
@@ -59,7 +70,6 @@ const UserDetails = () => {
                 </div>
             </div>
         </div>
-
     );
 };
 

@@ -9,6 +9,7 @@ import GameDetails from '../components/Pages/GameDetails';
 import PrivateRoute from '../provider/PrivateRoute';
 import UserDetails from '../components/Pages/UserDetails';
 import ForgotPassword from '../components/Pages/ForgotPassword';
+import UpdateProfile from '../components/Pages/UpdateProfile';
 
 const router = createBrowserRouter([
 
@@ -56,6 +57,10 @@ const router = createBrowserRouter([
             {
                 path: "forgotPassword",
                 Component: ForgotPassword
+            },
+            {
+                path: "updateProfile",
+                element: <PrivateRoute><UpdateProfile></UpdateProfile></PrivateRoute>
             }
         ]
     },
