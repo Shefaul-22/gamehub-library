@@ -6,6 +6,7 @@ import Login from '../components/Pages/Login';
 import HomePage from '../components/Pages/Home/HomePage';
 import Allgames from '../components/Pages/Allgames';
 import GameDetails from '../components/Pages/GameDetails';
+import PrivateRoute from '../provider/PrivateRoute';
 
 const router = createBrowserRouter([
 
@@ -35,7 +36,15 @@ const router = createBrowserRouter([
             },
             {
                 path: "gameDetails/:id",
-                Component: GameDetails
+                element: <PrivateRoute>
+                    <GameDetails></GameDetails>
+                </PrivateRoute>
+            },
+            {
+                path: "allgames/gameDetails/:id",
+                element: <PrivateRoute>
+                    <GameDetails></GameDetails>
+                </PrivateRoute>
             }
         ]
     },
