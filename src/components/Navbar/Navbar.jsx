@@ -24,6 +24,7 @@ const Navbar = () => {
     const links = <>
 
 
+
         <li><NavLink to="/" className={({ isActive }) =>
             `btn btn-primary mr-3 mb-2 ${isActive ? "!bg-yellow-500 " : ""}`}>Home</NavLink></li>
         <li><NavLink to="/allGames" className={({ isActive }) =>
@@ -31,10 +32,11 @@ const Navbar = () => {
         </li>
 
 
+
     </>
 
     return (
-        <div className="navbar fixed top-0 left-0 w-full z-50 px-5 bg-gradient-to-r from-[#537596] to-[#1d7971] backdrop-blur supports-[backdrop-filter]:backdrop-blur shadow-sm">
+        <div className="navbar fixed top-0 left-0 w-full z-50 px-5 bg-gradient-to-r from-[#a83abe] to-[#791d43] backdrop-blur supports-[backdrop-filter]:backdrop-blur shadow-sm">
 
             <div className="navbar-start">
                 <div className="dropdown">
@@ -43,7 +45,7 @@ const Navbar = () => {
                     </div>
                     <ul
                         tabIndex={0}
-                        className="menu menu-sm dropdown-content bg-gray-200 rounded-box z-[100] mt-3 w-52 p-2 shadow mb-3">
+                        className="menu menu-sm dropdown-content bg-gray-300 rounded-box z-[100] mt-3 w-52 p-2 shadow mb-3">
 
                         {
                             links
@@ -58,7 +60,7 @@ const Navbar = () => {
             </div>
 
 
-            
+
 
 
             <div className="navbar-end">
@@ -90,7 +92,7 @@ const Navbar = () => {
                         <div>
                             <button
                                 onClick={handleSignOut}
-                                className="btn btn-error btn-sm w-full text-white"
+                                className="btn btn-primary py-4 btn-sm w-full text-white"
                             >Log Out
                             </button>
                         </div>
@@ -99,14 +101,30 @@ const Navbar = () => {
 
                     </div>
                 ) : (
-                    <div>
-                        <Link to="/register" className="btn btn-primary mr-2 md:mr-3">
+                    <div className='flex items-center justify-center'>
+
+                        <NavLink
+                            to="/register"
+                            className={({ isActive }) =>
+                                `btn btn-primary mr-3 mb-2 transition-all duration-200
+             ${isActive ? "!bg-yellow-500 " : ""}`
+                            }
+                        >
                             Register
-                        </Link>
-                        <Link to="/login" className="btn btn-primary">
+                        </NavLink>
+
+                        <NavLink
+                            to="/login"
+                            className={({ isActive }) =>
+                                `btn btn-primary mr-3 mb-2 transition-all duration-200
+             ${isActive ? "!bg-yellow-500" : ""}`
+                            }
+                        >
                             Login
-                        </Link>
+                        </NavLink>
+
                     </div>
+
                 )}
 
             </div>

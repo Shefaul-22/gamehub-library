@@ -118,7 +118,7 @@ const Register = () => {
 
 
     return (
-        <div className='w-full bg-[#bdd7e7]'>
+        <div className='w-full bg-[#bdd7e7] py-5'>
             <div className="hero pt-20 w-11/12 mx-auto ">
 
                 <div className="card bg-base-200 w-full max-w-sm shrink-0 shadow-2xl">

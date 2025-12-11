@@ -5,7 +5,7 @@ import { Link } from 'react-router';
 
 const PopularGames = ({ gamesData }) => {
 
-    console.log(gamesData);
+    // console.log(gamesData);
 
     if (!gamesData) {
         return <Loading></Loading>
@@ -15,9 +15,9 @@ const PopularGames = ({ gamesData }) => {
     console.log(popularGamesData);
 
     return (
-        <div className='py-14 md:py-20 bg-[#F5F5F5] px-4'>
+        <div className='bg-[#bdd7e7] py-14 md:py-20  px-4'>
             <h2 className='font-bold text-center text-5xl mb-4'>Popular Games</h2>
-            <p className='text-center text-xs md:text-xl text-[#627382]'>Explore All Popular games on the Market developed by Unity</p>
+            <p className='text-center text-xs md:text-xl text-gray-800'>Explore All Popular games on the Market developed by Unity</p>
 
             <div className='max-w-7xl mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5 mt-10'>
 
@@ -27,7 +27,7 @@ const PopularGames = ({ gamesData }) => {
 
             </div>
             <Link to="/allgames" className=' flex justify-center px mt-10'>
-                <span className='btn bg-gradient-to-r from-[#632EE3] to-[#9F62F2] text-white px-9'>Show All</span>
+                <span className='btn btn-primary text-white px-9'>Show All</span>
 
             </Link>
         </div>

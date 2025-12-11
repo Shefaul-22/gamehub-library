@@ -12,8 +12,8 @@ const UserDetails = () => {
     };
 
     return (
-        <div className='bg-white'>
-            <div className="max-w-3xl mx-auto bg-gray-100 shadow-lg rounded-2xl p-8 sm:p-12 my-8 mt-24">
+        <div className='bg-[#bdd7e7] py-6'>
+            <div className="max-w-3xl mx-auto bg-gray-300 shadow-lg rounded-2xl mt-2 md:mt-18 p-12">
                 
                 <div className="flex flex-col sm:flex-row items-center gap-6 sm:gap-8 mb-6 ">
                     <img
@@ -26,8 +26,8 @@ const UserDetails = () => {
                         <h2 className="text-2xl sm:text-3xl font-bold text-gray-900">
                             {user.displayName || "No Name"}
                         </h2>
-                        <p className="text-gray-500">{user.email}</p>
-                        <p className="text-sm text-gray-400 mt-1">
+                        <p className="text-gray-700">{user.email}</p>
+                        <p className="text-sm text-gray-600 mt-1">
                             {user.emailVerified ? "Email Verified" : "Email Not Verified"}
                         </p>
 

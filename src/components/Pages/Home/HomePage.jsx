@@ -11,7 +11,7 @@ const HomePage = () => {
 
 
     return (
-        <div>
+        <div >
 
             <Hero></Hero>
             <PopularGames gamesData={gamesData}></PopularGames>

@@ -44,14 +44,14 @@ const GameDetails = () => {
             <div className='pt-20'>
                 <div className=" max-w-7xl mx-auto flex flex-col items-center justify-center  text-center ">
 
-                    <img className='w-72 h-72 mb-8' src={gameNotfoundImg} alt="App not found image" />
+                    <img className='w-72 h-72 mb-8' src={gameNotfoundImg} alt="Game not found image" />
 
-                    <h2 className="text-2xl md:text-5xl font-semibold mb-2 text-[#001931]">OPPS!! APP NOT FOUND</h2>
+                    <h2 className="text-2xl md:text-5xl font-semibold mb-2 text-[#001931]">OPPS!! GAME NOT FOUND</h2>
 
-                    <p className="text-[#627382] my-3 text-[14px] md:text-xl ">The App you are requesting is not found on our system.  please try another apps.
+                    <p className="text-[#627382] my-3 text-[14px] md:text-xl ">The game you are requesting is not found on our website.  please try another games.
                     </p>
 
-                    <a href="/apps" className="btn bg-gradient-to-r from-[#632EE3] to-[#9F62F2] mt-2 text-white">Go Back!</a>
+                    <a href="/allgames" className="btn bg-gradient-to-r from-[#632EE3] to-[#9F62F2] mt-2 text-white">Go Back!</a>
                 </div>
             </div>
         );
@@ -59,11 +59,12 @@ const GameDetails = () => {
 
     const { title, coverPhoto, category, description, downloadLink, ratings, developer } = singleGame;
 
+    console.log(downloadLink);
 
 
 
     return (
-        <div className=" bg-[#F5F5F5]">
+        <div className=" bg-[#bdd7e7]">
 
             <div className='max-w-7xl mx-auto p-6 mt-6 md:mt-10'>
 
@@ -95,10 +96,10 @@ const GameDetails = () => {
 
                         </div>
 
-                        <div className='mt-2 md:mt-32'>
-                            <button className="mt-9 px-6 py-3 bg-[#29D390] text-white  rounded-lg font-bold cursor-pointer">
-                                <a href={downloadLink}></a> DownLoadLink
-                            </button>
+                        <div className='mt-10 md:mt-46'>
+
+                            <a className="mt-9 px-6 py-3 bg-[#29D390] text-white  rounded-lg font-bold cursor-pointer" href={downloadLink} target='_blank'>DownLoadLink</a>
+
                         </div>
 
                     </div>

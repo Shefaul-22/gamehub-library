@@ -62,10 +62,10 @@ const Hero = () => {
     };
 
     return (
-        <div className=' overflow-hidden'>
+        <div className='bg-gradient-to-r from-[#4F46E5] to-[#06B6D4] overflow-hidden py-10'>
 
-            <div className='px-4 md:px-6 lg:px-8 mt-20 md:mt-30'>
-                <h2 className="text-2xl font-bold mb-4 text-center">Featured Games</h2>
+            <div className='px-4 md:px-6 lg:px-8 mt-10 md:mt-20'>
+                <h2 className="text-2xl md:text-4xl font-bold mb-4 md:mb-6 text-center">Featured Games For You</h2>
                 <motion.div
                     ref={sliderRef}
                     className="overflow-hidden"

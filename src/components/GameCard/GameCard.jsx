@@ -7,10 +7,10 @@ const GameCard = ({game}) => {
     // console.log(game);
     const {id} = game;
     return (
-        <Link to={`gameDetails/${id}`} className='bg-[#F5F5F5]'>
-            <div className='rounded-md shadow-md p-8 md:p-4 hover:scale-105 md:hover:scale-110 cursor-pointer transition-transform duration-500 ease-in-out'>
+        <Link to={`gameDetails/${id}`} className=''>
+            <div className='rounded-md shadow-md p-8 md:p-4 hover:scale-105 md:hover:scale-105 cursor-pointer transition-transform duration-500 ease-in-out bg-[#F5F5F5]'>
                 <div className='rounded-xl flex justify-center bg-[#D9D9D9]'>
-                    <img className='w-44 h-44 ' src={game.coverPhoto} alt="app image" />
+                    <img className='w-64 h-64 ' src={game.coverPhoto} alt="app image" />
                 </div>
                 <p className='font-medium  text-[#001931] my-4 h-auto md:h-10'>{game.title}</p>
                 <div className='flex justify-between flex-wrap gap-2'>
