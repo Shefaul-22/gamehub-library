@@ -36,7 +36,7 @@ const Allgames = () => {
                 <h2 className='font-bold text-center text-5xl mb-4'>All Games</h2>
                 <p className='text-center text-[14px] md:text-xl text-gray-800'>Explore All games on our website developed by Unity</p>
 
-                <div className='max-w-7xl mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5 mt-10'>
+                <div className='max-w-7xl md:mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5 mt-10'>
 
                     {
                         allgamesData.map(game => <GameCard game={game} key={game.id}></GameCard>)
