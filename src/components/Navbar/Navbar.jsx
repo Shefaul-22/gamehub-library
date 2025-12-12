@@ -27,7 +27,7 @@ const Navbar = () => {
 
         <li><NavLink to="/" className={({ isActive }) =>
             `btn btn-primary mr-3 mb-2 mt-1 ${isActive ? "!bg-yellow-500 " : "" }`} end>Home</NavLink></li>
-        <li><NavLink to="/allGames" className={({ isActive }) =>
+        <li><NavLink to="/allgames" className={({ isActive }) =>
             `btn btn-primary mr-3 mb-2 mt-1 ${isActive ? "!bg-yellow-500 " : ""}` } end>All Games</NavLink>
         </li>
 

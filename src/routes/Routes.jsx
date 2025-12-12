@@ -36,8 +36,9 @@ const router = createBrowserRouter([
 
             {
                 path: "allgames",
-                Component: Allgames
+                element: <Allgames></Allgames>
             },
+            
             {
                 path: "gameDetails/:id",
                 element: <PrivateRoute>
