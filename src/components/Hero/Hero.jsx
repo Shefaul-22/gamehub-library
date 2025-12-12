@@ -83,13 +83,13 @@ const Hero = () => {
                                 className="
                                 min-w-full
                                 md:min-w-[50%]
-                                lg:min-w-[33.33%] cursor-pointer bg-gray-200 rounded-xl shadow-md p-5
+                                lg:min-w-[33.33%] cursor-pointer bg-gray-200 rounded-xl shadow-md p-7
                             "
                             >
                                 <img
                                     src={game.coverPhoto}
                                     alt={game.title}
-                                    className="w-full h-52 object-cover rounded-xl"
+                                    className="w-full h-64 object-cover rounded-xl"
                                 />
 
                                 <p className="text-lg font-semibold mt-3">{game.title}</p>

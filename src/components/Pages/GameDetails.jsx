@@ -1,7 +1,7 @@
 
 import React, { useEffect, useState } from 'react';
 
-import { useParams } from 'react-router';
+import { Link, useParams } from 'react-router';
 import ratingIcon from '../../assets/icon-ratings.png';
 import gameNotfoundImg from '../../assets/gamedetails-Error.png'
 import Loading from '../Loading/Loading';
@@ -49,7 +49,7 @@ const GameDetails = () => {
             <div className='pt-20'>
                 <div className=" max-w-7xl mx-auto flex flex-col items-center justify-center  text-center ">
 
-                    <img className='w-72 h-72 mb-8' src={gameNotfoundImg} alt="Game not found image" />
+                    <img className='w-80 h-80 mb-8' src={gameNotfoundImg} alt="Game not found image" />
 
                     <h2 className="text-2xl md:text-5xl font-semibold mb-2 text-[#001931]">OPPS!! GAME NOT FOUND</h2>
 
@@ -82,7 +82,7 @@ const GameDetails = () => {
                     <div className='h-80'>
                         <h1 className="text-2xl md:text-3xl font-bold mb-2">{title}</h1>
                         <p className="text-[#627382]">Developed by <span className='text-[#632EE3] font-medium'>{developer}</span></p>
-                        <div className="border-t border-gray-300 mt-8 w-full"></div>
+                        <div className="border-t border-gray-700 mt-8 w-full"></div>
 
                         <div className="flex  gap-2 md:gap-10 lg:gap-12 mt-3 md:mt-8">
 
@@ -101,10 +101,17 @@ const GameDetails = () => {
 
                         </div>
 
-                        <div className='mt-10 md:mt-46'>
+                        <div className='mt-10 md:mt-44 flex gap-2 md:gap-4 items-center'>
 
-                            <a className="mt-9 px-6 py-3 bg-[#29D390] text-white  rounded-lg font-bold cursor-pointer" href={downloadLink} target='_blank'>DownLoadLink</a>
 
+                            <a className=" btn btn-primary text-white  rounded-lg font-bold cursor-pointer" href={downloadLink} target='_blank'>DownLoadLink</a>
+
+                            <Link
+                                to="/allgames"
+                                className="btn btn-error  text-white "
+                            >
+                                Go AllGames
+                            </Link>
                         </div>
 
                     </div>
@@ -112,7 +119,7 @@ const GameDetails = () => {
 
 
 
-                <div className="border-t border-gray-300  w-full mt-0 md:mt-4
+                <div className="border-t border-gray-700  w-full mt-0 md:mt-4
                 "></div>
 
 
