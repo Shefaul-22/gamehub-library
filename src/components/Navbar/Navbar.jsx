@@ -26,9 +26,9 @@ const Navbar = () => {
 
 
         <li><NavLink to="/" className={({ isActive }) =>
-            `btn btn-primary mr-3 mb-2 ${isActive ? "!bg-yellow-500 " : "" }`} end>Home</NavLink></li>
+            `btn btn-primary mr-3 mb-2 mt-1 ${isActive ? "!bg-yellow-500 " : "" }`} end>Home</NavLink></li>
         <li><NavLink to="/allGames" className={({ isActive }) =>
-            `btn btn-primary mr-3 mb-2 ${isActive ? "!bg-yellow-500 " : ""}` } end>All Games</NavLink>
+            `btn btn-primary mr-3 mb-2 mt-1 ${isActive ? "!bg-yellow-500 " : ""}` } end>All Games</NavLink>
         </li>
 
 
@@ -58,7 +58,7 @@ const Navbar = () => {
                     <img className='w-7 h-7 md:w-11 md:h-11 ' src={`https://i.ibb.co.com/WN1Jrg3N/image.png`} alt="Logo" />
 
 
-                    <a className=" text-xl md:text-3xl font-bold text-white">Gamehub<span className='text-yellow-300 font-bold'>Library</span></a>
+                    <a className=" text-[16px] md:text-3xl font-bold text-white">Gamehub<span className='text-yellow-300 font-bold hidden md:inline'>Library</span></a>
                 </div>
             </div>
 

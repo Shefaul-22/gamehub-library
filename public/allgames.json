@@ -1,502 +1,307 @@
 [
-    {
-        "id": "1",
-        "title": "PlayerUnknown's Battlegrounds: PUBG",
-        "coverPhoto": "https://upload.wikimedia.org/wikipedia/en/6/6e/PUBG_box_art.jpg",
-        "category": "FPS",
-        "downloadLink": "https://www.pubgmobile.com/en-US/home.shtml",
-        "description": "This game delivers an immersive and engaging gameplay experience with rich worlds, high-quality graphics, and dynamic mechanics. Players explore vast environments, complete missions, engage in combat, and discover hidden secrets. The game blends strategy, action, and exploration, offering long-term progression and continuous updates. Each session feels unique, thanks to diverse characters, customizable loadouts, and interactive elements. Frequent events and challenges keep players returning, ensuring that the adventure never becomes repetitive. Whether solo or with friends, this title provides hours of entertainment with its polished design and deep replayability. From smooth controls to immersive sound design, everything works together to deliver an unforgettable experience for gamers of all backgrounds. With an ever-expanding universe, players always have new content to explore, making this game a standout choice in its genre.",
-        "ratings": "4.0",
-        "developer": "Krafton"
-    },
-    {
-        "id": "2",
-        "title": "Fortnite",
-        "coverPhoto": "https://upload.wikimedia.org/wikipedia/en/thumb/0/09/Fortnite_Save_The_World.jpg/640px-Fortnite_Save_The_World.jpg",
-        "category": "Battle Royale",
-        "downloadLink": "https://www.epicgames.com/fortnite",
-        "description": "This game delivers an immersive and engaging gameplay experience with rich worlds, high-quality graphics, and dynamic mechanics. Players explore vast environments, complete missions, engage in combat, and discover hidden secrets. The game blends strategy, action, and exploration, offering long-term progression and continuous updates. Each session feels unique, thanks to diverse characters, customizable loadouts, and interactive elements. Frequent events and challenges keep players returning, ensuring that the adventure never becomes repetitive. Whether solo or with friends, this title provides hours of entertainment with its polished design and deep replayability. From smooth controls to immersive sound design, everything works together to deliver an unforgettable experience for gamers of all backgrounds. With an ever-expanding universe, players always have new content to explore, making this game a standout choice in its genre.",
-        "ratings": "4.1",
-        "developer": "Epic Games"
-    },
-    {
-        "id": "3",
-        "title": "Call of Duty: Mobile",
-        "coverPhoto": "https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Call_of_Duty_Mobile_cover.jpg/640px-Call_of_Duty_Mobile_cover.jpg",
-        "category": "FPS",
-        "downloadLink": "https://www.callofduty.com/mobile",
-        "description": "This game delivers an immersive and engaging gameplay experience with rich worlds, high-quality graphics, and dynamic mechanics. Players explore vast environments, complete missions, engage in combat, and discover hidden secrets. The game blends strategy, action, and exploration, offering long-term progression and continuous updates. Each session feels unique, thanks to diverse characters, customizable loadouts, and interactive elements. Frequent events and challenges keep players returning, ensuring that the adventure never becomes repetitive. Whether solo or with friends, this title provides hours of entertainment with its polished design and deep replayability. From smooth controls to immersive sound design, everything works together to deliver an unforgettable experience for gamers of all backgrounds. With an ever-expanding universe, players always have new content to explore, making this game a standout choice in its genre.",
-        "ratings": "4.2",
-        "developer": "TiMi Studios"
-    },
-    {
-        "id": "4",
-        "title": "Genshin Impact",
-        "coverPhoto": "https://upload.wikimedia.org/wikipedia/en/8/80/Genshin_Impact_cover.jpg",
-        "category": "RPG",
-        "downloadLink": "https://genshin.hoyoverse.com/",
-        "description": "This game delivers an immersive and engaging gameplay experience with rich worlds, high-quality graphics, and dynamic mechanics. Players explore vast environments, complete missions, engage in combat, and discover hidden secrets. The game blends strategy, action, and exploration, offering long-term progression and continuous updates. Each session feels unique, thanks to diverse characters, customizable loadouts, and interactive elements. Frequent events and challenges keep players returning, ensuring that the adventure never becomes repetitive. Whether solo or with friends, this title provides hours of entertainment with its polished design and deep replayability. From smooth controls to immersive sound design, everything works together to deliver an unforgettable experience for gamers of all backgrounds. With an ever-expanding universe, players always have new content to explore, making this game a standout choice in its genre.",
-        "ratings": "4.3",
-        "developer": "HoYoverse"
-    },
-    {
-        "id": "5",
-        "title": "PlayerUnknown's Battlegrounds: PUBG",
-        "coverPhoto": "https://upload.wikimedia.org/wikipedia/en/6/6e/PUBG_box_art.jpg",
-        "category": "FPS",
-        "downloadLink": "https://www.pubgmobile.com/en-US/home.shtml",
-        "description": "This game delivers an immersive and engaging gameplay experience with rich worlds, high-quality graphics, and dynamic mechanics. Players explore vast environments, complete missions, engage in combat, and discover hidden secrets. The game blends strategy, action, and exploration, offering long-term progression and continuous updates. Each session feels unique, thanks to diverse characters, customizable loadouts, and interactive elements. Frequent events and challenges keep players returning, ensuring that the adventure never becomes repetitive. Whether solo or with friends, this title provides hours of entertainment with its polished design and deep replayability. From smooth controls to immersive sound design, everything works together to deliver an unforgettable experience for gamers of all backgrounds. With an ever-expanding universe, players always have new content to explore, making this game a standout choice in its genre.",
-        "ratings": "4.4",
-        "developer": "Krafton"
-    },
-    {
-        "id": "6",
-        "title": "Fortnite",
-        "coverPhoto": "https://upload.wikimedia.org/wikipedia/en/thumb/0/09/Fortnite_Save_The_World.jpg/640px-Fortnite_Save_The_World.jpg",
-        "category": "Battle Royale",
-        "downloadLink": "https://www.epicgames.com/fortnite",
-        "description": "This game delivers an immersive and engaging gameplay experience with rich worlds, high-quality graphics, and dynamic mechanics. Players explore vast environments, complete missions, engage in combat, and discover hidden secrets. The game blends strategy, action, and exploration, offering long-term progression and continuous updates. Each session feels unique, thanks to diverse characters, customizable loadouts, and interactive elements. Frequent events and challenges keep players returning, ensuring that the adventure never becomes repetitive. Whether solo or with friends, this title provides hours of entertainment with its polished design and deep replayability. From smooth controls to immersive sound design, everything works together to deliver an unforgettable experience for gamers of all backgrounds. With an ever-expanding universe, players always have new content to explore, making this game a standout choice in its genre.",
-        "ratings": "4.5",
-        "developer": "Epic Games"
-    },
-    {
-        "id": "7",
-        "title": "Call of Duty: Mobile",
-        "coverPhoto": "https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Call_of_Duty_Mobile_cover.jpg/640px-Call_of_Duty_Mobile_cover.jpg",
-        "category": "FPS",
-        "downloadLink": "https://www.callofduty.com/mobile",
-        "description": "This game delivers an immersive and engaging gameplay experience with rich worlds, high-quality graphics, and dynamic mechanics. Players explore vast environments, complete missions, engage in combat, and discover hidden secrets. The game blends strategy, action, and exploration, offering long-term progression and continuous updates. Each session feels unique, thanks to diverse characters, customizable loadouts, and interactive elements. Frequent events and challenges keep players returning, ensuring that the adventure never becomes repetitive. Whether solo or with friends, this title provides hours of entertainment with its polished design and deep replayability. From smooth controls to immersive sound design, everything works together to deliver an unforgettable experience for gamers of all backgrounds. With an ever-expanding universe, players always have new content to explore, making this game a standout choice in its genre.",
-        "ratings": "4.6",
-        "developer": "TiMi Studios"
-    },
-    {
-        "id": "8",
-        "title": "Genshin Impact",
-        "coverPhoto": "https://upload.wikimedia.org/wikipedia/en/8/80/Genshin_Impact_cover.jpg",
-        "category": "RPG",
-        "downloadLink": "https://genshin.hoyoverse.com/",
-        "description": "This game delivers an immersive and engaging gameplay experience with rich worlds, high-quality graphics, and dynamic mechanics. Players explore vast environments, complete missions, engage in combat, and discover hidden secrets. The game blends strategy, action, and exploration, offering long-term progression and continuous updates. Each session feels unique, thanks to diverse characters, customizable loadouts, and interactive elements. Frequent events and challenges keep players returning, ensuring that the adventure never becomes repetitive. Whether solo or with friends, this title provides hours of entertainment with its polished design and deep replayability. From smooth controls to immersive sound design, everything works together to deliver an unforgettable experience for gamers of all backgrounds. With an ever-expanding universe, players always have new content to explore, making this game a standout choice in its genre.",
-        "ratings": "4.7",
-        "developer": "HoYoverse"
-    },
-    {
-        "id": "9",
-        "title": "PlayerUnknown's Battlegrounds: PUBG",
-        "coverPhoto": "https://upload.wikimedia.org/wikipedia/en/6/6e/PUBG_box_art.jpg",
-        "category": "FPS",
-        "downloadLink": "https://www.pubgmobile.com/en-US/home.shtml",
-        "description": "This game delivers an immersive and engaging gameplay experience with rich worlds, high-quality graphics, and dynamic mechanics. Players explore vast environments, complete missions, engage in combat, and discover hidden secrets. The game blends strategy, action, and exploration, offering long-term progression and continuous updates. Each session feels unique, thanks to diverse characters, customizable loadouts, and interactive elements. Frequent events and challenges keep players returning, ensuring that the adventure never becomes repetitive. Whether solo or with friends, this title provides hours of entertainment with its polished design and deep replayability. From smooth controls to immersive sound design, everything works together to deliver an unforgettable experience for gamers of all backgrounds. With an ever-expanding universe, players always have new content to explore, making this game a standout choice in its genre.",
-        "ratings": "4.8",
-        "developer": "Krafton"
-    },
-    {
-        "id": "10",
-        "title": "Fortnite",
-        "coverPhoto": "https://upload.wikimedia.org/wikipedia/en/thumb/0/09/Fortnite_Save_The_World.jpg/640px-Fortnite_Save_The_World.jpg",
-        "category": "Battle Royale",
-        "downloadLink": "https://www.epicgames.com/fortnite",
-        "description": "This game delivers an immersive and engaging gameplay experience with rich worlds, high-quality graphics, and dynamic mechanics. Players explore vast environments, complete missions, engage in combat, and discover hidden secrets. The game blends strategy, action, and exploration, offering long-term progression and continuous updates. Each session feels unique, thanks to diverse characters, customizable loadouts, and interactive elements. Frequent events and challenges keep players returning, ensuring that the adventure never becomes repetitive. Whether solo or with friends, this title provides hours of entertainment with its polished design and deep replayability. From smooth controls to immersive sound design, everything works together to deliver an unforgettable experience for gamers of all backgrounds. With an ever-expanding universe, players always have new content to explore, making this game a standout choice in its genre.",
-        "ratings": "4.9",
-        "developer": "Epic Games"
-    },
-    {
-        "id": "11",
-        "title": "Call of Duty: Mobile",
-        "coverPhoto": "https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Call_of_Duty_Mobile_cover.jpg/640px-Call_of_Duty_Mobile_cover.jpg",
-        "category": "FPS",
-        "downloadLink": "https://www.callofduty.com/mobile",
-        "description": "This game delivers an immersive and engaging gameplay experience with rich worlds, high-quality graphics, and dynamic mechanics. Players explore vast environments, complete missions, engage in combat, and discover hidden secrets. The game blends strategy, action, and exploration, offering long-term progression and continuous updates. Each session feels unique, thanks to diverse characters, customizable loadouts, and interactive elements. Frequent events and challenges keep players returning, ensuring that the adventure never becomes repetitive. Whether solo or with friends, this title provides hours of entertainment with its polished design and deep replayability. From smooth controls to immersive sound design, everything works together to deliver an unforgettable experience for gamers of all backgrounds. With an ever-expanding universe, players always have new content to explore, making this game a standout choice in its genre.",
-        "ratings": "4.0",
-        "developer": "TiMi Studios"
-    },
-    {
-        "id": "12",
-        "title": "Genshin Impact",
-        "coverPhoto": "https://upload.wikimedia.org/wikipedia/en/8/80/Genshin_Impact_cover.jpg",
-        "category": "RPG",
-        "downloadLink": "https://genshin.hoyoverse.com/",
-        "description": "This game delivers an immersive and engaging gameplay experience with rich worlds, high-quality graphics, and dynamic mechanics. Players explore vast environments, complete missions, engage in combat, and discover hidden secrets. The game blends strategy, action, and exploration, offering long-term progression and continuous updates. Each session feels unique, thanks to diverse characters, customizable loadouts, and interactive elements. Frequent events and challenges keep players returning, ensuring that the adventure never becomes repetitive. Whether solo or with friends, this title provides hours of entertainment with its polished design and deep replayability. From smooth controls to immersive sound design, everything works together to deliver an unforgettable experience for gamers of all backgrounds. With an ever-expanding universe, players always have new content to explore, making this game a standout choice in its genre.",
-        "ratings": "4.1",
-        "developer": "HoYoverse"
-    },
-    {
-        "id": "13",
-        "title": "PlayerUnknown's Battlegrounds: PUBG",
-        "coverPhoto": "https://upload.wikimedia.org/wikipedia/en/6/6e/PUBG_box_art.jpg",
-        "category": "FPS",
-        "downloadLink": "https://www.pubgmobile.com/en-US/home.shtml",
-        "description": "This game delivers an immersive and engaging gameplay experience with rich worlds, high-quality graphics, and dynamic mechanics. Players explore vast environments, complete missions, engage in combat, and discover hidden secrets. The game blends strategy, action, and exploration, offering long-term progression and continuous updates. Each session feels unique, thanks to diverse characters, customizable loadouts, and interactive elements. Frequent events and challenges keep players returning, ensuring that the adventure never becomes repetitive. Whether solo or with friends, this title provides hours of entertainment with its polished design and deep replayability. From smooth controls to immersive sound design, everything works together to deliver an unforgettable experience for gamers of all backgrounds. With an ever-expanding universe, players always have new content to explore, making this game a standout choice in its genre.",
-        "ratings": "4.2",
-        "developer": "Krafton"
-    },
-    {
-        "id": "14",
-        "title": "Fortnite",
-        "coverPhoto": "https://upload.wikimedia.org/wikipedia/en/thumb/0/09/Fortnite_Save_The_World.jpg/640px-Fortnite_Save_The_World.jpg",
-        "category": "Battle Royale",
-        "downloadLink": "https://www.epicgames.com/fortnite",
-        "description": "This game delivers an immersive and engaging gameplay experience with rich worlds, high-quality graphics, and dynamic mechanics. Players explore vast environments, complete missions, engage in combat, and discover hidden secrets. The game blends strategy, action, and exploration, offering long-term progression and continuous updates. Each session feels unique, thanks to diverse characters, customizable loadouts, and interactive elements. Frequent events and challenges keep players returning, ensuring that the adventure never becomes repetitive. Whether solo or with friends, this title provides hours of entertainment with its polished design and deep replayability. From smooth controls to immersive sound design, everything works together to deliver an unforgettable experience for gamers of all backgrounds. With an ever-expanding universe, players always have new content to explore, making this game a standout choice in its genre.",
-        "ratings": "4.3",
-        "developer": "Epic Games"
-    },
-    {
-        "id": "15",
-        "title": "Call of Duty: Mobile",
-        "coverPhoto": "https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Call_of_Duty_Mobile_cover.jpg/640px-Call_of_Duty_Mobile_cover.jpg",
-        "category": "FPS",
-        "downloadLink": "https://www.callofduty.com/mobile",
-        "description": "This game delivers an immersive and engaging gameplay experience with rich worlds, high-quality graphics, and dynamic mechanics. Players explore vast environments, complete missions, engage in combat, and discover hidden secrets. The game blends strategy, action, and exploration, offering long-term progression and continuous updates. Each session feels unique, thanks to diverse characters, customizable loadouts, and interactive elements. Frequent events and challenges keep players returning, ensuring that the adventure never becomes repetitive. Whether solo or with friends, this title provides hours of entertainment with its polished design and deep replayability. From smooth controls to immersive sound design, everything works together to deliver an unforgettable experience for gamers of all backgrounds. With an ever-expanding universe, players always have new content to explore, making this game a standout choice in its genre.",
-        "ratings": "4.4",
-        "developer": "TiMi Studios"
-    },
-    {
-        "id": "16",
-        "title": "Genshin Impact",
-        "coverPhoto": "https://upload.wikimedia.org/wikipedia/en/8/80/Genshin_Impact_cover.jpg",
-        "category": "RPG",
-        "downloadLink": "https://genshin.hoyoverse.com/",
-        "description": "This game delivers an immersive and engaging gameplay experience with rich worlds, high-quality graphics, and dynamic mechanics. Players explore vast environments, complete missions, engage in combat, and discover hidden secrets. The game blends strategy, action, and exploration, offering long-term progression and continuous updates. Each session feels unique, thanks to diverse characters, customizable loadouts, and interactive elements. Frequent events and challenges keep players returning, ensuring that the adventure never becomes repetitive. Whether solo or with friends, this title provides hours of entertainment with its polished design and deep replayability. From smooth controls to immersive sound design, everything works together to deliver an unforgettable experience for gamers of all backgrounds. With an ever-expanding universe, players always have new content to explore, making this game a standout choice in its genre.",
-        "ratings": "4.5",
-        "developer": "HoYoverse"
-    },
-    {
-        "id": "17",
-        "title": "PlayerUnknown's Battlegrounds: PUBG",
-        "coverPhoto": "https://upload.wikimedia.org/wikipedia/en/6/6e/PUBG_box_art.jpg",
-        "category": "FPS",
-        "downloadLink": "https://www.pubgmobile.com/en-US/home.shtml",
-        "description": "This game delivers an immersive and engaging gameplay experience with rich worlds, high-quality graphics, and dynamic mechanics. Players explore vast environments, complete missions, engage in combat, and discover hidden secrets. The game blends strategy, action, and exploration, offering long-term progression and continuous updates. Each session feels unique, thanks to diverse characters, customizable loadouts, and interactive elements. Frequent events and challenges keep players returning, ensuring that the adventure never becomes repetitive. Whether solo or with friends, this title provides hours of entertainment with its polished design and deep replayability. From smooth controls to immersive sound design, everything works together to deliver an unforgettable experience for gamers of all backgrounds. With an ever-expanding universe, players always have new content to explore, making this game a standout choice in its genre.",
-        "ratings": "4.6",
-        "developer": "Krafton"
-    },
-    {
-        "id": "18",
-        "title": "Fortnite",
-        "coverPhoto": "https://upload.wikimedia.org/wikipedia/en/thumb/0/09/Fortnite_Save_The_World.jpg/640px-Fortnite_Save_The_World.jpg",
-        "category": "Battle Royale",
-        "downloadLink": "https://www.epicgames.com/fortnite",
-        "description": "This game delivers an immersive and engaging gameplay experience with rich worlds, high-quality graphics, and dynamic mechanics. Players explore vast environments, complete missions, engage in combat, and discover hidden secrets. The game blends strategy, action, and exploration, offering long-term progression and continuous updates. Each session feels unique, thanks to diverse characters, customizable loadouts, and interactive elements. Frequent events and challenges keep players returning, ensuring that the adventure never becomes repetitive. Whether solo or with friends, this title provides hours of entertainment with its polished design and deep replayability. From smooth controls to immersive sound design, everything works together to deliver an unforgettable experience for gamers of all backgrounds. With an ever-expanding universe, players always have new content to explore, making this game a standout choice in its genre.",
-        "ratings": "4.7",
-        "developer": "Epic Games"
-    },
-    {
-        "id": "19",
-        "title": "Call of Duty: Mobile",
-        "coverPhoto": "https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Call_of_Duty_Mobile_cover.jpg/640px-Call_of_Duty_Mobile_cover.jpg",
-        "category": "FPS",
-        "downloadLink": "https://www.callofduty.com/mobile",
-        "description": "This game delivers an immersive and engaging gameplay experience with rich worlds, high-quality graphics, and dynamic mechanics. Players explore vast environments, complete missions, engage in combat, and discover hidden secrets. The game blends strategy, action, and exploration, offering long-term progression and continuous updates. Each session feels unique, thanks to diverse characters, customizable loadouts, and interactive elements. Frequent events and challenges keep players returning, ensuring that the adventure never becomes repetitive. Whether solo or with friends, this title provides hours of entertainment with its polished design and deep replayability. From smooth controls to immersive sound design, everything works together to deliver an unforgettable experience for gamers of all backgrounds. With an ever-expanding universe, players always have new content to explore, making this game a standout choice in its genre.",
-        "ratings": "4.8",
-        "developer": "TiMi Studios"
-    },
-    {
-        "id": "20",
-        "title": "Genshin Impact",
-        "coverPhoto": "https://upload.wikimedia.org/wikipedia/en/8/80/Genshin_Impact_cover.jpg",
-        "category": "RPG",
-        "downloadLink": "https://genshin.hoyoverse.com/",
-        "description": "This game delivers an immersive and engaging gameplay experience with rich worlds, high-quality graphics, and dynamic mechanics. Players explore vast environments, complete missions, engage in combat, and discover hidden secrets. The game blends strategy, action, and exploration, offering long-term progression and continuous updates. Each session feels unique, thanks to diverse characters, customizable loadouts, and interactive elements. Frequent events and challenges keep players returning, ensuring that the adventure never becomes repetitive. Whether solo or with friends, this title provides hours of entertainment with its polished design and deep replayability. From smooth controls to immersive sound design, everything works together to deliver an unforgettable experience for gamers of all backgrounds. With an ever-expanding universe, players always have new content to explore, making this game a standout choice in its genre.",
-        "ratings": "4.9",
-        "developer": "HoYoverse"
-    },
-    {
-        "id": "21",
-        "title": "PlayerUnknown's Battlegrounds: PUBG",
-        "coverPhoto": "https://upload.wikimedia.org/wikipedia/en/6/6e/PUBG_box_art.jpg",
-        "category": "FPS",
-        "downloadLink": "https://www.pubgmobile.com/en-US/home.shtml",
-        "description": "This game delivers an immersive and engaging gameplay experience with rich worlds, high-quality graphics, and dynamic mechanics. Players explore vast environments, complete missions, engage in combat, and discover hidden secrets. The game blends strategy, action, and exploration, offering long-term progression and continuous updates. Each session feels unique, thanks to diverse characters, customizable loadouts, and interactive elements. Frequent events and challenges keep players returning, ensuring that the adventure never becomes repetitive. Whether solo or with friends, this title provides hours of entertainment with its polished design and deep replayability. From smooth controls to immersive sound design, everything works together to deliver an unforgettable experience for gamers of all backgrounds. With an ever-expanding universe, players always have new content to explore, making this game a standout choice in its genre.",
-        "ratings": "4.0",
-        "developer": "Krafton"
-    },
-    {
-        "id": "22",
-        "title": "Fortnite",
-        "coverPhoto": "https://upload.wikimedia.org/wikipedia/en/thumb/0/09/Fortnite_Save_The_World.jpg/640px-Fortnite_Save_The_World.jpg",
-        "category": "Battle Royale",
-        "downloadLink": "https://www.epicgames.com/fortnite",
-        "description": "This game delivers an immersive and engaging gameplay experience with rich worlds, high-quality graphics, and dynamic mechanics. Players explore vast environments, complete missions, engage in combat, and discover hidden secrets. The game blends strategy, action, and exploration, offering long-term progression and continuous updates. Each session feels unique, thanks to diverse characters, customizable loadouts, and interactive elements. Frequent events and challenges keep players returning, ensuring that the adventure never becomes repetitive. Whether solo or with friends, this title provides hours of entertainment with its polished design and deep replayability. From smooth controls to immersive sound design, everything works together to deliver an unforgettable experience for gamers of all backgrounds. With an ever-expanding universe, players always have new content to explore, making this game a standout choice in its genre.",
-        "ratings": "4.1",
-        "developer": "Epic Games"
-    },
-    {
-        "id": "23",
-        "title": "Call of Duty: Mobile",
-        "coverPhoto": "https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Call_of_Duty_Mobile_cover.jpg/640px-Call_of_Duty_Mobile_cover.jpg",
-        "category": "FPS",
-        "downloadLink": "https://www.callofduty.com/mobile",
-        "description": "This game delivers an immersive and engaging gameplay experience with rich worlds, high-quality graphics, and dynamic mechanics. Players explore vast environments, complete missions, engage in combat, and discover hidden secrets. The game blends strategy, action, and exploration, offering long-term progression and continuous updates. Each session feels unique, thanks to diverse characters, customizable loadouts, and interactive elements. Frequent events and challenges keep players returning, ensuring that the adventure never becomes repetitive. Whether solo or with friends, this title provides hours of entertainment with its polished design and deep replayability. From smooth controls to immersive sound design, everything works together to deliver an unforgettable experience for gamers of all backgrounds. With an ever-expanding universe, players always have new content to explore, making this game a standout choice in its genre.",
-        "ratings": "4.2",
-        "developer": "TiMi Studios"
-    },
-    {
-        "id": "24",
-        "title": "Genshin Impact",
-        "coverPhoto": "https://upload.wikimedia.org/wikipedia/en/8/80/Genshin_Impact_cover.jpg",
-        "category": "RPG",
-        "downloadLink": "https://genshin.hoyoverse.com/",
-        "description": "This game delivers an immersive and engaging gameplay experience with rich worlds, high-quality graphics, and dynamic mechanics. Players explore vast environments, complete missions, engage in combat, and discover hidden secrets. The game blends strategy, action, and exploration, offering long-term progression and continuous updates. Each session feels unique, thanks to diverse characters, customizable loadouts, and interactive elements. Frequent events and challenges keep players returning, ensuring that the adventure never becomes repetitive. Whether solo or with friends, this title provides hours of entertainment with its polished design and deep replayability. From smooth controls to immersive sound design, everything works together to deliver an unforgettable experience for gamers of all backgrounds. With an ever-expanding universe, players always have new content to explore, making this game a standout choice in its genre.",
-        "ratings": "4.3",
-        "developer": "HoYoverse"
-    },
-    {
-        "id": "25",
-        "title": "PlayerUnknown's Battlegrounds: PUBG",
-        "coverPhoto": "https://upload.wikimedia.org/wikipedia/en/6/6e/PUBG_box_art.jpg",
-        "category": "FPS",
-        "downloadLink": "https://www.pubgmobile.com/en-US/home.shtml",
-        "description": "This game delivers an immersive and engaging gameplay experience with rich worlds, high-quality graphics, and dynamic mechanics. Players explore vast environments, complete missions, engage in combat, and discover hidden secrets. The game blends strategy, action, and exploration, offering long-term progression and continuous updates. Each session feels unique, thanks to diverse characters, customizable loadouts, and interactive elements. Frequent events and challenges keep players returning, ensuring that the adventure never becomes repetitive. Whether solo or with friends, this title provides hours of entertainment with its polished design and deep replayability. From smooth controls to immersive sound design, everything works together to deliver an unforgettable experience for gamers of all backgrounds. With an ever-expanding universe, players always have new content to explore, making this game a standout choice in its genre.",
-        "ratings": "4.4",
-        "developer": "Krafton"
-    },
-    {
-        "id": "26",
-        "title": "Fortnite",
-        "coverPhoto": "https://upload.wikimedia.org/wikipedia/en/thumb/0/09/Fortnite_Save_The_World.jpg/640px-Fortnite_Save_The_World.jpg",
-        "category": "Battle Royale",
-        "downloadLink": "https://www.epicgames.com/fortnite",
-        "description": "This game delivers an immersive and engaging gameplay experience with rich worlds, high-quality graphics, and dynamic mechanics. Players explore vast environments, complete missions, engage in combat, and discover hidden secrets. The game blends strategy, action, and exploration, offering long-term progression and continuous updates. Each session feels unique, thanks to diverse characters, customizable loadouts, and interactive elements. Frequent events and challenges keep players returning, ensuring that the adventure never becomes repetitive. Whether solo or with friends, this title provides hours of entertainment with its polished design and deep replayability. From smooth controls to immersive sound design, everything works together to deliver an unforgettable experience for gamers of all backgrounds. With an ever-expanding universe, players always have new content to explore, making this game a standout choice in its genre.",
-        "ratings": "4.5",
-        "developer": "Epic Games"
-    },
-    {
-        "id": "27",
-        "title": "Call of Duty: Mobile",
-        "coverPhoto": "https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Call_of_Duty_Mobile_cover.jpg/640px-Call_of_Duty_Mobile_cover.jpg",
-        "category": "FPS",
-        "downloadLink": "https://www.callofduty.com/mobile",
-        "description": "This game delivers an immersive and engaging gameplay experience with rich worlds, high-quality graphics, and dynamic mechanics. Players explore vast environments, complete missions, engage in combat, and discover hidden secrets. The game blends strategy, action, and exploration, offering long-term progression and continuous updates. Each session feels unique, thanks to diverse characters, customizable loadouts, and interactive elements. Frequent events and challenges keep players returning, ensuring that the adventure never becomes repetitive. Whether solo or with friends, this title provides hours of entertainment with its polished design and deep replayability. From smooth controls to immersive sound design, everything works together to deliver an unforgettable experience for gamers of all backgrounds. With an ever-expanding universe, players always have new content to explore, making this game a standout choice in its genre.",
-        "ratings": "4.6",
-        "developer": "TiMi Studios"
-    },
-    {
-        "id": "28",
-        "title": "Genshin Impact",
-        "coverPhoto": "https://upload.wikimedia.org/wikipedia/en/8/80/Genshin_Impact_cover.jpg",
-        "category": "RPG",
-        "downloadLink": "https://genshin.hoyoverse.com/",
-        "description": "This game delivers an immersive and engaging gameplay experience with rich worlds, high-quality graphics, and dynamic mechanics. Players explore vast environments, complete missions, engage in combat, and discover hidden secrets. The game blends strategy, action, and exploration, offering long-term progression and continuous updates. Each session feels unique, thanks to diverse characters, customizable loadouts, and interactive elements. Frequent events and challenges keep players returning, ensuring that the adventure never becomes repetitive. Whether solo or with friends, this title provides hours of entertainment with its polished design and deep replayability. From smooth controls to immersive sound design, everything works together to deliver an unforgettable experience for gamers of all backgrounds. With an ever-expanding universe, players always have new content to explore, making this game a standout choice in its genre.",
-        "ratings": "4.7",
-        "developer": "HoYoverse"
-    },
-    {
-        "id": "29",
-        "title": "PlayerUnknown's Battlegrounds: PUBG",
-        "coverPhoto": "https://upload.wikimedia.org/wikipedia/en/6/6e/PUBG_box_art.jpg",
-        "category": "FPS",
-        "downloadLink": "https://www.pubgmobile.com/en-US/home.shtml",
-        "description": "This game delivers an immersive and engaging gameplay experience with rich worlds, high-quality graphics, and dynamic mechanics. Players explore vast environments, complete missions, engage in combat, and discover hidden secrets. The game blends strategy, action, and exploration, offering long-term progression and continuous updates. Each session feels unique, thanks to diverse characters, customizable loadouts, and interactive elements. Frequent events and challenges keep players returning, ensuring that the adventure never becomes repetitive. Whether solo or with friends, this title provides hours of entertainment with its polished design and deep replayability. From smooth controls to immersive sound design, everything works together to deliver an unforgettable experience for gamers of all backgrounds. With an ever-expanding universe, players always have new content to explore, making this game a standout choice in its genre.",
-        "ratings": "4.8",
-        "developer": "Krafton"
-    },
-    {
-        "id": "30",
-        "title": "Fortnite",
-        "coverPhoto": "https://upload.wikimedia.org/wikipedia/en/thumb/0/09/Fortnite_Save_The_World.jpg/640px-Fortnite_Save_The_World.jpg",
-        "category": "Battle Royale",
-        "downloadLink": "https://www.epicgames.com/fortnite",
-        "description": "This game delivers an immersive and engaging gameplay experience with rich worlds, high-quality graphics, and dynamic mechanics. Players explore vast environments, complete missions, engage in combat, and discover hidden secrets. The game blends strategy, action, and exploration, offering long-term progression and continuous updates. Each session feels unique, thanks to diverse characters, customizable loadouts, and interactive elements. Frequent events and challenges keep players returning, ensuring that the adventure never becomes repetitive. Whether solo or with friends, this title provides hours of entertainment with its polished design and deep replayability. From smooth controls to immersive sound design, everything works together to deliver an unforgettable experience for gamers of all backgrounds. With an ever-expanding universe, players always have new content to explore, making this game a standout choice in its genre.",
-        "ratings": "4.9",
-        "developer": "Epic Games"
-    },
-    {
-        "id": "31",
-        "title": "Call of Duty: Mobile",
-        "coverPhoto": "https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Call_of_Duty_Mobile_cover.jpg/640px-Call_of_Duty_Mobile_cover.jpg",
-        "category": "FPS",
-        "downloadLink": "https://www.callofduty.com/mobile",
-        "description": "This game delivers an immersive and engaging gameplay experience with rich worlds, high-quality graphics, and dynamic mechanics. Players explore vast environments, complete missions, engage in combat, and discover hidden secrets. The game blends strategy, action, and exploration, offering long-term progression and continuous updates. Each session feels unique, thanks to diverse characters, customizable loadouts, and interactive elements. Frequent events and challenges keep players returning, ensuring that the adventure never becomes repetitive. Whether solo or with friends, this title provides hours of entertainment with its polished design and deep replayability. From smooth controls to immersive sound design, everything works together to deliver an unforgettable experience for gamers of all backgrounds. With an ever-expanding universe, players always have new content to explore, making this game a standout choice in its genre.",
-        "ratings": "4.0",
-        "developer": "TiMi Studios"
-    },
-    {
-        "id": "32",
-        "title": "Genshin Impact",
-        "coverPhoto": "https://upload.wikimedia.org/wikipedia/en/8/80/Genshin_Impact_cover.jpg",
-        "category": "RPG",
-        "downloadLink": "https://genshin.hoyoverse.com/",
-        "description": "This game delivers an immersive and engaging gameplay experience with rich worlds, high-quality graphics, and dynamic mechanics. Players explore vast environments, complete missions, engage in combat, and discover hidden secrets. The game blends strategy, action, and exploration, offering long-term progression and continuous updates. Each session feels unique, thanks to diverse characters, customizable loadouts, and interactive elements. Frequent events and challenges keep players returning, ensuring that the adventure never becomes repetitive. Whether solo or with friends, this title provides hours of entertainment with its polished design and deep replayability. From smooth controls to immersive sound design, everything works together to deliver an unforgettable experience for gamers of all backgrounds. With an ever-expanding universe, players always have new content to explore, making this game a standout choice in its genre.",
-        "ratings": "4.1",
-        "developer": "HoYoverse"
-    },
-    {
-        "id": "33",
-        "title": "PlayerUnknown's Battlegrounds: PUBG",
-        "coverPhoto": "https://upload.wikimedia.org/wikipedia/en/6/6e/PUBG_box_art.jpg",
-        "category": "FPS",
-        "downloadLink": "https://www.pubgmobile.com/en-US/home.shtml",
-        "description": "This game delivers an immersive and engaging gameplay experience with rich worlds, high-quality graphics, and dynamic mechanics. Players explore vast environments, complete missions, engage in combat, and discover hidden secrets. The game blends strategy, action, and exploration, offering long-term progression and continuous updates. Each session feels unique, thanks to diverse characters, customizable loadouts, and interactive elements. Frequent events and challenges keep players returning, ensuring that the adventure never becomes repetitive. Whether solo or with friends, this title provides hours of entertainment with its polished design and deep replayability. From smooth controls to immersive sound design, everything works together to deliver an unforgettable experience for gamers of all backgrounds. With an ever-expanding universe, players always have new content to explore, making this game a standout choice in its genre.",
-        "ratings": "4.2",
-        "developer": "Krafton"
-    },
-    {
-        "id": "34",
-        "title": "Fortnite",
-        "coverPhoto": "https://upload.wikimedia.org/wikipedia/en/thumb/0/09/Fortnite_Save_The_World.jpg/640px-Fortnite_Save_The_World.jpg",
-        "category": "Battle Royale",
-        "downloadLink": "https://www.epicgames.com/fortnite",
-        "description": "This game delivers an immersive and engaging gameplay experience with rich worlds, high-quality graphics, and dynamic mechanics. Players explore vast environments, complete missions, engage in combat, and discover hidden secrets. The game blends strategy, action, and exploration, offering long-term progression and continuous updates. Each session feels unique, thanks to diverse characters, customizable loadouts, and interactive elements. Frequent events and challenges keep players returning, ensuring that the adventure never becomes repetitive. Whether solo or with friends, this title provides hours of entertainment with its polished design and deep replayability. From smooth controls to immersive sound design, everything works together to deliver an unforgettable experience for gamers of all backgrounds. With an ever-expanding universe, players always have new content to explore, making this game a standout choice in its genre.",
-        "ratings": "4.3",
-        "developer": "Epic Games"
-    },
-    {
-        "id": "35",
-        "title": "Call of Duty: Mobile",
-        "coverPhoto": "https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Call_of_Duty_Mobile_cover.jpg/640px-Call_of_Duty_Mobile_cover.jpg",
-        "category": "FPS",
-        "downloadLink": "https://www.callofduty.com/mobile",
-        "description": "This game delivers an immersive and engaging gameplay experience with rich worlds, high-quality graphics, and dynamic mechanics. Players explore vast environments, complete missions, engage in combat, and discover hidden secrets. The game blends strategy, action, and exploration, offering long-term progression and continuous updates. Each session feels unique, thanks to diverse characters, customizable loadouts, and interactive elements. Frequent events and challenges keep players returning, ensuring that the adventure never becomes repetitive. Whether solo or with friends, this title provides hours of entertainment with its polished design and deep replayability. From smooth controls to immersive sound design, everything works together to deliver an unforgettable experience for gamers of all backgrounds. With an ever-expanding universe, players always have new content to explore, making this game a standout choice in its genre.",
-        "ratings": "4.4",
-        "developer": "TiMi Studios"
-    },
-    {
-        "id": "36",
-        "title": "Genshin Impact",
-        "coverPhoto": "https://upload.wikimedia.org/wikipedia/en/8/80/Genshin_Impact_cover.jpg",
-        "category": "RPG",
-        "downloadLink": "https://genshin.hoyoverse.com/",
-        "description": "This game delivers an immersive and engaging gameplay experience with rich worlds, high-quality graphics, and dynamic mechanics. Players explore vast environments, complete missions, engage in combat, and discover hidden secrets. The game blends strategy, action, and exploration, offering long-term progression and continuous updates. Each session feels unique, thanks to diverse characters, customizable loadouts, and interactive elements. Frequent events and challenges keep players returning, ensuring that the adventure never becomes repetitive. Whether solo or with friends, this title provides hours of entertainment with its polished design and deep replayability. From smooth controls to immersive sound design, everything works together to deliver an unforgettable experience for gamers of all backgrounds. With an ever-expanding universe, players always have new content to explore, making this game a standout choice in its genre.",
-        "ratings": "4.5",
-        "developer": "HoYoverse"
-    },
-    {
-        "id": "37",
-        "title": "PlayerUnknown's Battlegrounds: PUBG",
-        "coverPhoto": "https://upload.wikimedia.org/wikipedia/en/6/6e/PUBG_box_art.jpg",
-        "category": "FPS",
-        "downloadLink": "https://www.pubgmobile.com/en-US/home.shtml",
-        "description": "This game delivers an immersive and engaging gameplay experience with rich worlds, high-quality graphics, and dynamic mechanics. Players explore vast environments, complete missions, engage in combat, and discover hidden secrets. The game blends strategy, action, and exploration, offering long-term progression and continuous updates. Each session feels unique, thanks to diverse characters, customizable loadouts, and interactive elements. Frequent events and challenges keep players returning, ensuring that the adventure never becomes repetitive. Whether solo or with friends, this title provides hours of entertainment with its polished design and deep replayability. From smooth controls to immersive sound design, everything works together to deliver an unforgettable experience for gamers of all backgrounds. With an ever-expanding universe, players always have new content to explore, making this game a standout choice in its genre.",
-        "ratings": "4.6",
-        "developer": "Krafton"
-    },
-    {
-        "id": "38",
-        "title": "Fortnite",
-        "coverPhoto": "https://upload.wikimedia.org/wikipedia/en/thumb/0/09/Fortnite_Save_The_World.jpg/640px-Fortnite_Save_The_World.jpg",
-        "category": "Battle Royale",
-        "downloadLink": "https://www.epicgames.com/fortnite",
-        "description": "This game delivers an immersive and engaging gameplay experience with rich worlds, high-quality graphics, and dynamic mechanics. Players explore vast environments, complete missions, engage in combat, and discover hidden secrets. The game blends strategy, action, and exploration, offering long-term progression and continuous updates. Each session feels unique, thanks to diverse characters, customizable loadouts, and interactive elements. Frequent events and challenges keep players returning, ensuring that the adventure never becomes repetitive. Whether solo or with friends, this title provides hours of entertainment with its polished design and deep replayability. From smooth controls to immersive sound design, everything works together to deliver an unforgettable experience for gamers of all backgrounds. With an ever-expanding universe, players always have new content to explore, making this game a standout choice in its genre.",
-        "ratings": "4.7",
-        "developer": "Epic Games"
-    },
-    {
-        "id": "39",
-        "title": "Call of Duty: Mobile",
-        "coverPhoto": "https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Call_of_Duty_Mobile_cover.jpg/640px-Call_of_Duty_Mobile_cover.jpg",
-        "category": "FPS",
-        "downloadLink": "https://www.callofduty.com/mobile",
-        "description": "This game delivers an immersive and engaging gameplay experience with rich worlds, high-quality graphics, and dynamic mechanics. Players explore vast environments, complete missions, engage in combat, and discover hidden secrets. The game blends strategy, action, and exploration, offering long-term progression and continuous updates. Each session feels unique, thanks to diverse characters, customizable loadouts, and interactive elements. Frequent events and challenges keep players returning, ensuring that the adventure never becomes repetitive. Whether solo or with friends, this title provides hours of entertainment with its polished design and deep replayability. From smooth controls to immersive sound design, everything works together to deliver an unforgettable experience for gamers of all backgrounds. With an ever-expanding universe, players always have new content to explore, making this game a standout choice in its genre.",
-        "ratings": "4.8",
-        "developer": "TiMi Studios"
-    },
-    {
-        "id": "40",
-        "title": "Genshin Impact",
-        "coverPhoto": "https://upload.wikimedia.org/wikipedia/en/8/80/Genshin_Impact_cover.jpg",
-        "category": "RPG",
-        "downloadLink": "https://genshin.hoyoverse.com/",
-        "description": "This game delivers an immersive and engaging gameplay experience with rich worlds, high-quality graphics, and dynamic mechanics. Players explore vast environments, complete missions, engage in combat, and discover hidden secrets. The game blends strategy, action, and exploration, offering long-term progression and continuous updates. Each session feels unique, thanks to diverse characters, customizable loadouts, and interactive elements. Frequent events and challenges keep players returning, ensuring that the adventure never becomes repetitive. Whether solo or with friends, this title provides hours of entertainment with its polished design and deep replayability. From smooth controls to immersive sound design, everything works together to deliver an unforgettable experience for gamers of all backgrounds. With an ever-expanding universe, players always have new content to explore, making this game a standout choice in its genre.",
-        "ratings": "4.9",
-        "developer": "HoYoverse"
-    },
-    {
-        "id": "41",
-        "title": "PlayerUnknown's Battlegrounds: PUBG",
-        "coverPhoto": "https://upload.wikimedia.org/wikipedia/en/6/6e/PUBG_box_art.jpg",
-        "category": "FPS",
-        "downloadLink": "https://www.pubgmobile.com/en-US/home.shtml",
-        "description": "This game delivers an immersive and engaging gameplay experience with rich worlds, high-quality graphics, and dynamic mechanics. Players explore vast environments, complete missions, engage in combat, and discover hidden secrets. The game blends strategy, action, and exploration, offering long-term progression and continuous updates. Each session feels unique, thanks to diverse characters, customizable loadouts, and interactive elements. Frequent events and challenges keep players returning, ensuring that the adventure never becomes repetitive. Whether solo or with friends, this title provides hours of entertainment with its polished design and deep replayability. From smooth controls to immersive sound design, everything works together to deliver an unforgettable experience for gamers of all backgrounds. With an ever-expanding universe, players always have new content to explore, making this game a standout choice in its genre.",
-        "ratings": "4.0",
-        "developer": "Krafton"
-    },
-    {
-        "id": "42",
-        "title": "Fortnite",
-        "coverPhoto": "https://upload.wikimedia.org/wikipedia/en/thumb/0/09/Fortnite_Save_The_World.jpg/640px-Fortnite_Save_The_World.jpg",
-        "category": "Battle Royale",
-        "downloadLink": "https://www.epicgames.com/fortnite",
-        "description": "This game delivers an immersive and engaging gameplay experience with rich worlds, high-quality graphics, and dynamic mechanics. Players explore vast environments, complete missions, engage in combat, and discover hidden secrets. The game blends strategy, action, and exploration, offering long-term progression and continuous updates. Each session feels unique, thanks to diverse characters, customizable loadouts, and interactive elements. Frequent events and challenges keep players returning, ensuring that the adventure never becomes repetitive. Whether solo or with friends, this title provides hours of entertainment with its polished design and deep replayability. From smooth controls to immersive sound design, everything works together to deliver an unforgettable experience for gamers of all backgrounds. With an ever-expanding universe, players always have new content to explore, making this game a standout choice in its genre.",
-        "ratings": "4.1",
-        "developer": "Epic Games"
-    },
-    {
-        "id": "43",
-        "title": "Call of Duty: Mobile",
-        "coverPhoto": "https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Call_of_Duty_Mobile_cover.jpg/640px-Call_of_Duty_Mobile_cover.jpg",
-        "category": "FPS",
-        "downloadLink": "https://www.callofduty.com/mobile",
-        "description": "This game delivers an immersive and engaging gameplay experience with rich worlds, high-quality graphics, and dynamic mechanics. Players explore vast environments, complete missions, engage in combat, and discover hidden secrets. The game blends strategy, action, and exploration, offering long-term progression and continuous updates. Each session feels unique, thanks to diverse characters, customizable loadouts, and interactive elements. Frequent events and challenges keep players returning, ensuring that the adventure never becomes repetitive. Whether solo or with friends, this title provides hours of entertainment with its polished design and deep replayability. From smooth controls to immersive sound design, everything works together to deliver an unforgettable experience for gamers of all backgrounds. With an ever-expanding universe, players always have new content to explore, making this game a standout choice in its genre.",
-        "ratings": "4.2",
-        "developer": "TiMi Studios"
-    },
-    {
-        "id": "44",
-        "title": "Genshin Impact",
-        "coverPhoto": "https://upload.wikimedia.org/wikipedia/en/8/80/Genshin_Impact_cover.jpg",
-        "category": "RPG",
-        "downloadLink": "https://genshin.hoyoverse.com/",
-        "description": "This game delivers an immersive and engaging gameplay experience with rich worlds, high-quality graphics, and dynamic mechanics. Players explore vast environments, complete missions, engage in combat, and discover hidden secrets. The game blends strategy, action, and exploration, offering long-term progression and continuous updates. Each session feels unique, thanks to diverse characters, customizable loadouts, and interactive elements. Frequent events and challenges keep players returning, ensuring that the adventure never becomes repetitive. Whether solo or with friends, this title provides hours of entertainment with its polished design and deep replayability. From smooth controls to immersive sound design, everything works together to deliver an unforgettable experience for gamers of all backgrounds. With an ever-expanding universe, players always have new content to explore, making this game a standout choice in its genre.",
-        "ratings": "4.3",
-        "developer": "HoYoverse"
-    },
-    {
-        "id": "45",
-        "title": "PlayerUnknown's Battlegrounds: PUBG",
-        "coverPhoto": "https://upload.wikimedia.org/wikipedia/en/6/6e/PUBG_box_art.jpg",
-        "category": "FPS",
-        "downloadLink": "https://www.pubgmobile.com/en-US/home.shtml",
-        "description": "This game delivers an immersive and engaging gameplay experience with rich worlds, high-quality graphics, and dynamic mechanics. Players explore vast environments, complete missions, engage in combat, and discover hidden secrets. The game blends strategy, action, and exploration, offering long-term progression and continuous updates. Each session feels unique, thanks to diverse characters, customizable loadouts, and interactive elements. Frequent events and challenges keep players returning, ensuring that the adventure never becomes repetitive. Whether solo or with friends, this title provides hours of entertainment with its polished design and deep replayability. From smooth controls to immersive sound design, everything works together to deliver an unforgettable experience for gamers of all backgrounds. With an ever-expanding universe, players always have new content to explore, making this game a standout choice in its genre.",
-        "ratings": "4.4",
-        "developer": "Krafton"
-    },
-    {
-        "id": "46",
-        "title": "Fortnite",
-        "coverPhoto": "https://upload.wikimedia.org/wikipedia/en/thumb/0/09/Fortnite_Save_The_World.jpg/640px-Fortnite_Save_The_World.jpg",
-        "category": "Battle Royale",
-        "downloadLink": "https://www.epicgames.com/fortnite",
-        "description": "This game delivers an immersive and engaging gameplay experience with rich worlds, high-quality graphics, and dynamic mechanics. Players explore vast environments, complete missions, engage in combat, and discover hidden secrets. The game blends strategy, action, and exploration, offering long-term progression and continuous updates. Each session feels unique, thanks to diverse characters, customizable loadouts, and interactive elements. Frequent events and challenges keep players returning, ensuring that the adventure never becomes repetitive. Whether solo or with friends, this title provides hours of entertainment with its polished design and deep replayability. From smooth controls to immersive sound design, everything works together to deliver an unforgettable experience for gamers of all backgrounds. With an ever-expanding universe, players always have new content to explore, making this game a standout choice in its genre.",
-        "ratings": "4.5",
-        "developer": "Epic Games"
-    },
-    {
-        "id": "47",
-        "title": "Call of Duty: Mobile",
-        "coverPhoto": "https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Call_of_Duty_Mobile_cover.jpg/640px-Call_of_Duty_Mobile_cover.jpg",
-        "category": "FPS",
-        "downloadLink": "https://www.callofduty.com/mobile",
-        "description": "This game delivers an immersive and engaging gameplay experience with rich worlds, high-quality graphics, and dynamic mechanics. Players explore vast environments, complete missions, engage in combat, and discover hidden secrets. The game blends strategy, action, and exploration, offering long-term progression and continuous updates. Each session feels unique, thanks to diverse characters, customizable loadouts, and interactive elements. Frequent events and challenges keep players returning, ensuring that the adventure never becomes repetitive. Whether solo or with friends, this title provides hours of entertainment with its polished design and deep replayability. From smooth controls to immersive sound design, everything works together to deliver an unforgettable experience for gamers of all backgrounds. With an ever-expanding universe, players always have new content to explore, making this game a standout choice in its genre.",
-        "ratings": "4.6",
-        "developer": "TiMi Studios"
-    },
-    {
-        "id": "48",
-        "title": "Genshin Impact",
-        "coverPhoto": "https://upload.wikimedia.org/wikipedia/en/8/80/Genshin_Impact_cover.jpg",
-        "category": "RPG",
-        "downloadLink": "https://genshin.hoyoverse.com/",
-        "description": "This game delivers an immersive and engaging gameplay experience with rich worlds, high-quality graphics, and dynamic mechanics. Players explore vast environments, complete missions, engage in combat, and discover hidden secrets. The game blends strategy, action, and exploration, offering long-term progression and continuous updates. Each session feels unique, thanks to diverse characters, customizable loadouts, and interactive elements. Frequent events and challenges keep players returning, ensuring that the adventure never becomes repetitive. Whether solo or with friends, this title provides hours of entertainment with its polished design and deep replayability. From smooth controls to immersive sound design, everything works together to deliver an unforgettable experience for gamers of all backgrounds. With an ever-expanding universe, players always have new content to explore, making this game a standout choice in its genre.",
-        "ratings": "4.7",
-        "developer": "HoYoverse"
-    },
-    {
-        "id": "49",
-        "title": "PlayerUnknown's Battlegrounds: PUBG",
-        "coverPhoto": "https://upload.wikimedia.org/wikipedia/en/6/6e/PUBG_box_art.jpg",
-        "category": "FPS",
-        "downloadLink": "https://www.pubgmobile.com/en-US/home.shtml",
-        "description": "This game delivers an immersive and engaging gameplay experience with rich worlds, high-quality graphics, and dynamic mechanics. Players explore vast environments, complete missions, engage in combat, and discover hidden secrets. The game blends strategy, action, and exploration, offering long-term progression and continuous updates. Each session feels unique, thanks to diverse characters, customizable loadouts, and interactive elements. Frequent events and challenges keep players returning, ensuring that the adventure never becomes repetitive. Whether solo or with friends, this title provides hours of entertainment with its polished design and deep replayability. From smooth controls to immersive sound design, everything works together to deliver an unforgettable experience for gamers of all backgrounds. With an ever-expanding universe, players always have new content to explore, making this game a standout choice in its genre.",
-        "ratings": "4.8",
-        "developer": "Krafton"
-    },
-    {
-        "id": "50",
-        "title": "Fortnite",
-        "coverPhoto": "https://upload.wikimedia.org/wikipedia/en/thumb/0/09/Fortnite_Save_The_World.jpg/640px-Fortnite_Save_The_World.jpg",
-        "category": "Battle Royale",
-        "downloadLink": "https://www.epicgames.com/fortnite",
-        "description": "This game delivers an immersive and engaging gameplay experience with rich worlds, high-quality graphics, and dynamic mechanics. Players explore vast environments, complete missions, engage in combat, and discover hidden secrets. The game blends strategy, action, and exploration, offering long-term progression and continuous updates. Each session feels unique, thanks to diverse characters, customizable loadouts, and interactive elements. Frequent events and challenges keep players returning, ensuring that the adventure never becomes repetitive. Whether solo or with friends, this title provides hours of entertainment with its polished design and deep replayability. From smooth controls to immersive sound design, everything works together to deliver an unforgettable experience for gamers of all backgrounds. With an ever-expanding universe, players always have new content to explore, making this game a standout choice in its genre.",
-        "ratings": "4.9",
-        "developer": "Epic Games"
-    }
+  {
+    "id": "1",
+    "title": "PlayerUnknown's Battlegrounds: PUBG",
+    "coverPhoto": "https://upload.wikimedia.org/wikipedia/en/6/6e/PUBG_box_art.jpg",
+    "category": "FPS",
+    "downloadLink": "https://www.pubgmobile.com/en-US/home.shtml",
+    "description": "PUBG delivers an immersive and engaging gameplay experience with rich worlds, high-quality graphics, and dynamic mechanics. Players explore vast environments, complete missions, engage in combat, and discover hidden secrets. The game blends strategy, action, and exploration, offering long-term progression and continuous updates. Each session feels unique, thanks to diverse characters, customizable loadouts, and interactive elements. Frequent events and challenges keep players returning, ensuring that the adventure never becomes repetitive. Whether solo or with friends, this title provides hours of entertainment with its polished design and deep replayability. From smooth controls to immersive sound design, everything works together to deliver an unforgettable experience for gamers of all backgrounds. With its ever-expanding universe, players always have new content to explore, making PUBG a standout choice in the battle royale genre.",
+    "ratings": "4.0",
+    "developer": "Krafton"
+  },
+  {
+    "id": "2",
+    "title": "Call of Duty: Mobile",
+    "coverPhoto": "https://upload.wikimedia.org/wikipedia/en/5/51/Call_of_Duty_Mobile.jpg",
+    "category": "FPS",
+    "downloadLink": "https://www.callofduty.com/mobile",
+    "description": "Call of Duty: Mobile brings the iconic franchise to handheld devices with exceptional polish and performance. It offers multiple modes including Multiplayer, Battle Royale, Sniper Only, and limited-time events that constantly refresh the experience. The maps are detailed, inspired by legendary CoD titles, and optimized for fast-paced action. Customization plays a huge role, with players able to upgrade weapons, unlock perks, modify attachments, and build tactical loadouts suited for different playstyles. The game rewards skill, reflexes, and strategic planning, creating a competitive environment that appeals to beginners and seasoned veterans alike. Beyond gameplay, the progression system keeps players invested by gradually unlocking characters, skins, and seasonal rewards. Frequent updates introduce new weapons, modes, and collaborations, ensuring that no two seasons feel the same. Its polished controls and excellent optimization make it one of the most engaging mobile FPS titles available.",
+    "ratings": "4.3",
+    "developer": "Activision"
+  },
+  {
+    "id": "3",
+    "title": "Genshin Impact",
+    "coverPhoto": "https://upload.wikimedia.org/wikipedia/en/9/9a/Genshin_Impact_cover.jpg",
+    "category": "Open World RPG",
+    "downloadLink": "https://genshin.hoyoverse.com",
+    "description": "Genshin Impact is a vast open-world action RPG that invites players into the enchanting world of Teyvat. The game features a roster of beautifully designed characters, each with unique elemental abilities and combat styles. Exploration is at the heart of the experience, allowing players to climb mountains, glide across landscapes, and uncover hidden treasures. The elemental combat system encourages creativity by combining abilities for powerful reactions. The storyline dives into rich lore, emotional character arcs, and mysterious world-building that expands with every major update. Players can enjoy quests, puzzles, world bosses, dungeons, and seasonal events. Co-op mode allows teaming up for even more fun. With stunning visuals, orchestral music, and a steady rollout of content updates, Genshin Impact continues to feel alive and evolving. Its mix of exploration, combat, and world storytelling makes it one of the most beloved RPGs on any platform.",
+    "ratings": "4.2",
+    "developer": "HoYoverse"
+  },
+  {
+    "id": "4",
+    "title": "Free Fire MAX",
+    "coverPhoto": "https://upload.wikimedia.org/wikipedia/en/5/5e/Garena_Free_Fire_Max.jpg",
+    "category": "Battle Royale",
+    "downloadLink": "https://ff.garena.com",
+    "description": "Free Fire MAX enhances the classic Free Fire experience with improved graphics, smoother animations, and more refined gameplay. Players parachute into a battlefield with 49 competitors and fight to survive using a wide variety of weapons, vehicles, and abilities. Characters come with special skills that add depth and strategy to encounters. The game excels at short, action-packed matches that rarely exceed 10 minutes, making it ideal for mobile play. Seasonal updates introduce new skins, maps, events, and collaborations with celebrities or franchises. Free Fire MAX’s social features allow players to form guilds, voice chat with teammates, and participate in community events. The optimized performance ensures smooth gameplay on both low-end and high-end devices, making it accessible to a huge global audience. The game continues to evolve with regular balance updates, ensuring fresh and competitive battles.",
+    "ratings": "4.1",
+    "developer": "Garena"
+  },
+  {
+    "id": "5",
+    "title": "Apex Legends Mobile",
+    "coverPhoto": "https://upload.wikimedia.org/wikipedia/en/3/35/Apex_Legends_cover.jpg",
+    "category": "Battle Royale",
+    "downloadLink": "https://www.ea.com/games/apex-legends",
+    "description": "Apex Legends Mobile brings the fast-paced hero shooter experience to the small screen with incredible optimization and fluidity. Players choose from a roster of Legends, each with unique abilities that shape the flow of combat. Strategic team-based mechanics, high-mobility movement, and advanced gunplay make Apex one of the most dynamic battle royale games. The mobile version introduces exclusive modes, events, and rewards tailored to touchscreen controls. Maps are large, vertical, and filled with opportunities for surprising encounters. The game encourages teamwork, whether planning ambushes, reviving teammates, or coordinating ultimate abilities. Apex Legends Mobile excels in its polished animations, voice lines, and cinematic presentation. Regular updates bring new Legends, maps, limited-time modes, and balance adjustments. With its deep tactical gameplay and competitive nature, the game appeals to both casual players and esports enthusiasts.",
+    "ratings": "4.4",
+    "developer": "Electronic Arts"
+  },
+  {
+    "id": "6",
+    "title": "Clash of Clans",
+    "coverPhoto": "https://upload.wikimedia.org/wikipedia/en/5/5f/Clash_of_Clans_poster.jpg",
+    "category": "Strategy",
+    "downloadLink": "https://supercell.com/en/games/clashofclans",
+    "description": "Clash of Clans is a strategic base-building and army-management game where players construct villages, train troops, and engage in epic clan wars. The gameplay revolves around resource management, defensive planning, and coordinated attacks. Each building, troop type, and hero introduces new layers of strategy as players upgrade and expand. Clan Wars, Clan Games, and seasonal rewards add depth and long-term progression. The game encourages teamwork, requiring clans to communicate and plan attacks effectively. Visually appealing graphics, smooth animations, and memorable character designs contribute to its ongoing popularity. Supercell continues to update the game with new levels, troops, spells, and hero skins. Whether competing in war leagues or building the ultimate base, players find endless replay value. Clash of Clans stands out as one of the most successful mobile strategy games of all time.",
+    "ratings": "4.6",
+    "developer": "Supercell"
+  },
+  {
+    "id": "7",
+    "title": "Clash Royale",
+    "coverPhoto": "https://upload.wikimedia.org/wikipedia/en/6/66/Clash_Royale_logo.png",
+    "category": "Strategy",
+    "downloadLink": "https://supercell.com/en/games/clashroyale",
+    "description": "Clash Royale combines tower defense, card collecting, and real-time strategy to create a competitive experience filled with fast and intense battles. Players build decks of troops, spells, and buildings, each with distinct strengths and weaknesses. Every match requires quick decision-making, elixir management, and tactical placement. The game’s ranking system pushes players to improve through skillful play and strategic deck building. Frequent balance updates ensure fairness and variety, while tournaments and seasonal challenges add constant motivation. The characters are based on the Clash of Clans universe, giving fans familiar faces and personalities. Visually, Clash Royale is colorful and polished, with smooth animations that keep battles exciting. With its blend of strategy, progression, and competitive gameplay, it remains one of the top real-time strategy games on mobile.",
+    "ratings": "4.5",
+    "developer": "Supercell"
+  },
+  {
+    "id": "8",
+    "title": "Fortnite",
+    "coverPhoto": "https://upload.wikimedia.org/wikipedia/en/0/0e/Fortnite_cover_art.jpg",
+    "category": "Battle Royale",
+    "downloadLink": "https://www.epicgames.com/fortnite",
+    "description": "Fortnite revolutionized the battle royale genre with its unique building mechanics, vibrant art style, and ever-changing world. Players collect resources and construct structures to gain tactical advantage during fast-paced combat. The game frequently hosts live events, collaborations with movies, anime, and celebrities, making it a constantly evolving entertainment platform. Each new season brings map changes, storyline progression, weapons, items, and battle pass rewards. Fortnite’s Zero Build mode offers an alternative for players who prefer pure combat without building mechanics. The game supports cross-play, allowing friends from different platforms to team up. With weekly challenges, creative mode, and competitive tournaments, Fortnite offers something for everyone. Its cultural impact and long-term support make it one of the most influential games of the decade.",
+    "ratings": "4.4",
+    "developer": "Epic Games"
+  },
+  {
+    "id": "9",
+    "title": "Minecraft",
+    "coverPhoto": "https://upload.wikimedia.org/wikipedia/en/5/51/Minecraft_cover.png",
+    "category": "Sandbox",
+    "downloadLink": "https://www.minecraft.net",
+    "description": "Minecraft is a sandbox universe where creativity is the only limit. Players can build anything using blocks—houses, cities, machines, or massive landscapes. The world is procedurally generated, meaning every new map feels fresh and unique. Survival mode challenges players to gather resources, craft tools, fight mobs, and explore dangerous environments like caves and the Nether. Creative mode removes all restrictions, giving access to infinite blocks and the ability to fly. Redstone systems allow players to build advanced machines, from automatic farms to full computers. Multiplayer servers host minigames, roleplay worlds, PvP battles, and cooperative builds. The game receives regular updates introducing new mobs, biomes, blocks, and mechanics. Its pixel-style world and limitless creativity have made Minecraft one of the best-selling games in history.",
+    "ratings": "4.8",
+    "developer": "Mojang Studios"
+  },
+  {
+    "id": "10",
+    "title": "Asphalt 9: Legends",
+    "coverPhoto": "https://upload.wikimedia.org/wikipedia/en/5/5e/Asphalt_9_Legends.png",
+    "category": "Racing",
+    "downloadLink": "https://www.gameloft.com/game/asphalt-9",
+    "description": "Asphalt 9: Legends is an adrenaline-fueled arcade racing game featuring high-speed action, stunning visuals, and over-the-top stunts. Players can collect and upgrade an impressive lineup of supercars from iconic manufacturers such as Ferrari, Lamborghini, and Bugatti. The tracks span beautiful real-world locations with dynamic weather effects and cinematic race sequences. The game's Nitro Pulse boosts speed dramatically, while the TouchDrive control system makes gameplay accessible to casual players. More advanced players can switch to manual controls for deeper mastery. Asphalt 9 includes a full career mode, daily events, time-limited challenges, and online multiplayer races. Clubs allow players to team up, compete on leaderboards, and unlock exclusive rewards. With its smooth performance, polished graphics, and constant updates, Asphalt 9 remains one of the best mobile racing games available.",
+    "ratings": "4.7",
+    "developer": "Gameloft"
+  },
+
+  
+  {
+    "id": "11",
+    "title": "Valorant Mobile",
+    "coverPhoto": "https://upload.wikimedia.org/wikipedia/en/5/5f/Valorant_logo.png",
+    "category": "Tactical FPS",
+    "downloadLink": "https://playvalorant.com",
+    "description": "Valorant Mobile transforms Riot Games’ iconic tactical FPS into a touch-friendly, competitive experience without losing its core identity. The gameplay revolves around sharp gun mechanics, precise aim, strategic utility usage, and 5v5 team coordination. Each Agent brings unique abilities that change how rounds unfold, making strategy just as important as mechanical skill. Despite being optimized for mobile devices, the game maintains its signature blend of slow tactical pacing mixed with explosive final moments. The maps are designed around lanes, chokepoints, elevation, and strategic plant sites, encouraging players to plan every approach. Regular content updates introduce new Agents, weapons, maps, and seasonal battle pass rewards. The ranking system provides a challenging progression path, pushing players to communicate, adapt, and refine their gameplay. With polished visuals, smooth controls, and anti-cheat protection, Valorant Mobile emphasizes fairness and competition. Whether practicing aim, coordinating with a squad, or climbing the ranked ladder, players get a deeply competitive tactical FPS experience that remains true to the original PC version while feeling fresh and accessible on mobile devices.",
+    "ratings": "4.4",
+    "developer": "Riot Games"
+  },
+  {
+    "id": "12",
+    "title": "Cyberpunk 2077: Mobile Edition",
+    "coverPhoto": "https://upload.wikimedia.org/wikipedia/en/9/9f/Cyberpunk_2077_box_art.jpg",
+    "category": "Open World RPG",
+    "downloadLink": "https://www.cyberpunk.net",
+    "description": "Cyberpunk 2077: Mobile Edition brings the neon-soaked dystopian world of Night City into the palms of players with surprising fidelity. The game presents an open-world full of towering skyscrapers, crowded markets, dangerous gangs, and hidden alleyways. Players take on the role of V, customizing skills, playstyle, cyberware upgrades, and weapons to shape their unique version of the character. The narrative is rich with branching choices, dialogue paths, and emotional story arcs that impact the world and its characters. The mobile edition is optimized to deliver smooth combat with both ranged and melee weapons, vehicle driving, stealth mechanics, and hacking abilities. Side quests in Night City feel meaningful rather than filler, giving players a sense of depth rarely found in mobile RPGs. Exploration rewards players with loot, secrets, and world-building elements scattered throughout cybernetic districts. The game receives frequent updates adding performance improvements, visual tuning, and new missions. Cyberpunk 2077: Mobile Edition stands out as a futuristic open-world experience that merges story-driven gameplay with fast-paced action and deep customization.",
+    "ratings": "4.3",
+    "developer": "CD Projekt Red"
+  },
+  {
+    "id": "13",
+    "title": "Shadow Fight Arena",
+    "coverPhoto": "https://upload.wikimedia.org/wikipedia/en/6/60/Shadow_Fight_3_logo.png",
+    "category": "Fighting",
+    "downloadLink": "https://shadowfight.com",
+    "description": "Shadow Fight Arena delivers real-time PvP battles where players control warriors inspired by Shadow Fight’s iconic universe. The game features fluid animations, weapon-based combat, and precise timing that rewards skillful play. Each hero comes with unique combat styles, special abilities, and powerful combos that create diverse playstyles. Matches are fast yet tactical, requiring players to manage distance, energy, and counterattacks. The special shadow abilities add depth, allowing players to unleash devastating moves that can turn the tide of combat. The game’s ranking ladder challenges players to improve, face increasingly skilled opponents, and climb through competitive tiers. Visually, the game blends realistic animation with stylized effects, making every attack feel impactful. Frequent updates bring new fighters, skins, events, and balance tuning. Training modes allow players to practice moves and refine reflexes. Shadow Fight Arena’s blend of smooth animations, strategic fighting mechanics, and competitive multiplayer makes it one of the best mobile fighting games available today.",
+    "ratings": "4.2",
+    "developer": "Nekki"
+  },
+  {
+    "id": "14",
+    "title": "Plants vs. Zombies 3",
+    "coverPhoto": "https://upload.wikimedia.org/wikipedia/en/5/5b/Plants_vs_Zombies_logo.png",
+    "category": "Strategy",
+    "downloadLink": "https://www.ea.com/games/plants-vs-zombies",
+    "description": "Plants vs. Zombies 3 revives the beloved tower-defense franchise with modern visuals, new plant abilities, and revamped strategy layers. Players must defend their home from waves of wacky zombies using a growing arsenal of plants, each offering unique powers such as area damage, slowing effects, or explosive attacks. The game introduces 3D models while maintaining the charm of the classic art style. Levels are designed with more variety, including puzzle stages, timed challenges, and boss encounters that require quick thinking and adaptive strategies. Resource management plays a vital role as players choose which plants to upgrade and how to handle stronger late-game enemies. The game also includes social features, allowing players to join clubs, compete in events, and challenge others in asynchronous PvP modes. Regular updates add new plants, zombies, modes, and seasonal content, keeping gameplay fresh. Whether playing casually or aiming to master high-difficulty levels, Plants vs. Zombies 3 remains a delightful and strategic experience.",
+    "ratings": "4.1",
+    "developer": "Electronic Arts"
+  },
+  {
+    "id": "15",
+    "title": "Mobile Legends: Bang Bang",
+    "coverPhoto": "https://upload.wikimedia.org/wikipedia/en/5/5e/MobileLegendsBangBangLogo.png",
+    "category": "MOBA",
+    "downloadLink": "https://m.mobilelegends.com",
+    "description": "Mobile Legends: Bang Bang is a fast-paced MOBA designed specifically for mobile, offering intense 5v5 battles lasting around 10–15 minutes. Players select heroes from a roster of tanks, assassins, mages, marksmen, support, and fighters, each with their own roles and abilities. The game emphasizes teamwork, map control, jungle objectives, and coordinated pushing. Controls are optimized for mobile devices, ensuring smooth movement, skill shots, and combos. Frequent updates introduce new heroes, skins, balance changes, and seasonal events that keep gameplay unpredictable and engaging. Ranked mode allows players to climb through tiers and compete against stronger opponents. The game's matchmaking system pairs players based on skill, and its server infrastructure ensures low-latency gameplay across regions. MLBB also hosts esports tournaments, attracting competitive players worldwide. Whether casual or competitive, Mobile Legends offers one of the most polished MOBA experiences on mobile.",
+    "ratings": "4.5",
+    "developer": "Moonton"
+  },
+  {
+    "id": "16",
+    "title": "League of Legends: Wild Rift",
+    "coverPhoto": "https://upload.wikimedia.org/wikipedia/en/6/6d/League_of_Legends_logo.png",
+    "category": "MOBA",
+    "downloadLink": "https://wildrift.leagueoflegends.com",
+    "description": "League of Legends: Wild Rift condenses the iconic PC MOBA into a streamlined, mobile-friendly experience without losing its strategic depth. The game features 5v5 battles on a redesigned Summoner’s Rift built for shorter matches and touchscreen controls. Over 80 champions are available, each with unique abilities, roles, and playstyles that shape team compositions and strategies. Wild Rift emphasizes teamwork, map awareness, jungle objectives, lane control, and coordinated team fights. The game features ranked seasons, competitive tiers, and rewarding progression for players seeking challenge. Graphically, Wild Rift is stunning, with smooth character animations, detailed environments, and clean UI design. Frequent patches introduce new champions, skins, balance changes, and event-driven storytelling. Its esports potential and polished gameplay mechanics have earned it a large global player base. Whether you are a longtime League fan or a newcomer, Wild Rift offers an accessible yet deeply competitive MOBA experience.",
+    "ratings": "4.6",
+    "developer": "Riot Games"
+  },
+  {
+    "id": "17",
+    "title": "Brawl Stars",
+    "coverPhoto": "https://upload.wikimedia.org/wikipedia/en/0/07/Brawl_Stars_logo.png",
+    "category": "Action",
+    "downloadLink": "https://supercell.com/en/games/brawlstars",
+    "description": "Brawl Stars delivers fast-paced, multiplayer action with a diverse roster of characters known as Brawlers. Each Brawler features unique abilities, attack styles, and special Super moves that create countless gameplay possibilities. Matches are short but intense, ranging from 3v3 objective modes to solo and duo battle royale battles. The game rewards strategy, map awareness, and teamwork, especially in modes like Gem Grab, Bounty, and Heist. Brawl Stars offers frequent updates, new Brawlers, skins, seasonal events, and limited-time game modes that keep the experience fresh. The progression system allows players to level up Brawlers, unlock gear, and climb competitive ranks. Smooth controls, colorful visuals, and polished mechanics make the game accessible even to new players. The social aspect is strong with clubs, friendly matches, and team-based strategies that promote community engagement. With its variety of modes and evolving content, Brawl Stars remains a staple in the mobile action genre.",
+    "ratings": "4.4",
+    "developer": "Supercell"
+  },
+  {
+    "id": "18",
+    "title": "Real Racing 3",
+    "coverPhoto": "https://upload.wikimedia.org/wikipedia/en/1/1f/Real_Racing_3_logo.png",
+    "category": "Racing",
+    "downloadLink": "https://www.ea.com/games/real-racing/real-racing-3",
+    "description": "Real Racing 3 delivers a highly realistic racing experience with detailed car models, authentic tracks, and simulation-style controls. The game features real-world manufacturers like Porsche, Aston Martin, Mercedes, and Lamborghini, each rendered with impressive accuracy. Players can race on tracks such as Silverstone, Hockenheim, and Le Mans, with dynamic weather and time-of-day effects enhancing immersion. Career mode guides players through thousands of events, including cup races, eliminations, drag races, and endurance challenges. The Time Shifted Multiplayer system allows racing against online players asynchronously, offering competitive gameplay without requiring real-time coordination. Car upgrades, maintenance, and customization play a crucial role in progressing through tougher challenges. The game’s visuals are among the best on mobile, showcasing reflections, realistic car damage, and smooth physics. Frequent updates add new cars, events, and seasonal challenges. With its blend of realism and accessibility, Real Racing 3 stands as a benchmark for mobile racing simulations.",
+    "ratings": "4.5",
+    "developer": "Electronic Arts"
+  },
+  {
+    "id": "19",
+    "title": "Dead Cells Mobile",
+    "coverPhoto": "https://upload.wikimedia.org/wikipedia/en/3/38/Dead_Cells_cover_art.png",
+    "category": "Action Roguelike",
+    "downloadLink": "https://dead-cells.com",
+    "description": "Dead Cells Mobile brings the acclaimed roguelike action-platformer to handhelds with smooth controls, fast combat, and deep replayability. Players navigate procedurally generated levels filled with enemies, traps, and secrets. Each run feels unique due to randomized layouts, weapon drops, and upgrade paths. Combat is responsive and skill-based, rewarding precise dodging, parrying, and timing. Players can choose from bows, swords, shields, spells, traps, and more to craft effective builds. Permanent upgrades offer long-term progression, while the brutal permadeath system ensures every decision matters. The mobile port supports customizable controls and 60 FPS gameplay on many devices. Visually, Dead Cells features beautiful pixel art, fluid animations, and atmospheric environments. Regular updates bring new biomes, bosses, weapons, and balance changes. The combination of roguelike unpredictability and fast-paced action keeps players returning for countless runs. Dead Cells Mobile stands out as one of the most polished and rewarding action roguelikes available on smartphones.",
+    "ratings": "4.7",
+    "developer": "Motion Twin"
+  },
+  {
+    "id": "20",
+    "title": "Diablo Immortal",
+    "coverPhoto": "https://upload.wikimedia.org/wikipedia/en/5/51/Diablo_Immortal.png",
+    "category": "Action RPG",
+    "downloadLink": "https://diabloimmortal.blizzard.com",
+    "description": "Diablo Immortal captures the essence of the classic Diablo franchise while delivering a polished mobile-first experience. Set between Diablo II and Diablo III, the story expands the lore with new characters, regions, and dark mysteries. Players choose from iconic classes such as Barbarian, Wizard, Crusader, Demon Hunter, Monk, and Necromancer, each offering distinct combat styles and abilities. The world is filled with dungeons, bosses, loot, and events designed for both solo and cooperative play. Combat feels satisfying with responsive skills, powerful abilities, and dynamic enemy encounters. The game encourages exploration through hidden lairs, world events, and puzzle-filled dungeons. The loot system rewards grinding, with legendary items that modify skills and build synergies. Diablo Immortal includes PvP Battlegrounds, Warbands, and Clan system that support social gameplay. Seasonal events, new dungeons, and class updates keep the experience fresh. With its dark atmosphere, smooth controls, and deep RPG progression, Diablo Immortal is one of the most content-rich action RPGs on mobile.",
+    "ratings": "4.0",
+    "developer": "Blizzard Entertainment"
+  },
+
+  
+  {
+    "id": "21",
+    "title": "Stardew Valley Mobile",
+    "coverPhoto": "https://upload.wikimedia.org/wikipedia/en/f/fd/Stardew_Valley_logo.jpg",
+    "category": "Simulation RPG",
+    "downloadLink": "https://www.stardewvalley.net",
+    "description": "Stardew Valley Mobile brings the beloved farming and life-simulation experience to handheld devices with the same charm and depth as the original. Players inherit a rundown farm and slowly transform it into a thriving homestead through planting crops, raising animals, mining resources, crafting items, and building meaningful relationships with villagers. Each in-game season offers new crops, festivals, and weather patterns that keep things fresh. The world feels alive, with each character having distinct personalities, storylines, and daily schedules. Beyond farming, players can explore mysterious caves full of monsters and treasures, fish in rivers and oceans, forage for seasonal items, and take part in community events. The game allows players to shape their own unique lifestyle—whether becoming a master farmer, expert miner, skilled fisherman, or social butterfly. The mobile controls are optimized for touch input and maintain the smooth feel of the PC version. With its cozy atmosphere, relaxing soundtrack, and endless replayability, Stardew Valley Mobile stands out as one of the most wholesome and content-rich simulation games available.",
+    "ratings": "4.8",
+    "developer": "ConcernedApe"
+  },
+  {
+    "id": "22",
+    "title": "Honkai: Star Rail",
+    "coverPhoto": "https://upload.wikimedia.org/wikipedia/en/f/f9/Honkai_Star_Rail_logo.jpg",
+    "category": "Turn-Based RPG",
+    "downloadLink": "https://hsr.hoyoverse.com",
+    "description": "Honkai: Star Rail is a turn-based RPG that mixes cinematic storytelling with strategic combat and stunning visuals. Set across multiple worlds connected by the Astral Express, players follow the Trailblazer on an epic sci-fi adventure. Characters are beautifully animated, each offering unique abilities, roles, and elemental synergies. Combat is designed around turn order, skill rotations, buffs, debuffs, and team composition, creating a system that rewards planning and experimentation. The game’s storytelling is a major highlight, featuring emotional arcs, lore-rich environments, and memorable character interactions. Side quests, puzzles, and exploration add depth beyond battles. Frequent updates introduce new playable characters, regions, events, and limited-time story content, keeping the game alive and evolving. The soundtrack features orchestral and futuristic themes that enhance immersion. Honkai: Star Rail stands out for its world-building, polished combat, and premium-quality presentation, making it one of the finest turn-based RPGs on mobile.",
+    "ratings": "4.6",
+    "developer": "HoYoverse"
+  },
+  {
+    "id": "23",
+    "title": "The Elder Scrolls: Blades",
+    "coverPhoto": "https://upload.wikimedia.org/wikipedia/en/5/57/The_Elder_Scrolls_Blades_logo.png",
+    "category": "First-Person RPG",
+    "downloadLink": "https://elderscrolls.bethesda.net",
+    "description": "The Elder Scrolls: Blades brings Bethesda’s iconic RPG universe to mobile with a first-person perspective, dungeon crawling, and town-building elements. Players take on the role of a member of the Blades, returning to a ruined hometown that they must rebuild through quests, exploration, and gathering resources. Combat is responsive, involving timed attacks, blocks, dodges, and magical abilities. Dungeons are a mix of handcrafted and procedurally generated environments filled with enemies, treasures, and lore. Town restoration adds an additional layer of progression as players construct buildings, upgrade facilities, and unlock new services. The game also includes an Arena mode for PvP battles and an Abyss mode offering endless survival-style challenges. Blades maintains the atmospheric world design that Elder Scrolls fans love, with detailed environments inspired by Tamriel’s fantasy setting. Regular updates introduce new story chapters, equipment, events, and gameplay improvements. With its combination of RPG combat, exploration, and creative town-building, The Elder Scrolls: Blades offers a robust fantasy experience on mobile.",
+    "ratings": "4.1",
+    "developer": "Bethesda Game Studios"
+  },
+  {
+    "id": "24",
+    "title": "Subway Surfers",
+    "coverPhoto": "https://upload.wikimedia.org/wikipedia/en/8/8b/Subway_Surfers_app_logo.png",
+    "category": "Endless Runner",
+    "downloadLink": "https://sybogames.com/subway-surfers",
+    "description": "Subway Surfers remains one of the most iconic endless runners, combining fast-paced action with colorful visuals and a global adventure theme. Players take control of Jake and his friends as they dash through subway tracks, dodging trains, barriers, and obstacles while collecting coins and power-ups. Each run is packed with quick reflex decisions, making gameplay both exhilarating and replayable. The World Tour system keeps the experience fresh by introducing new cities, themes, characters, and boards every month. Power-ups like the Jetpack, Super Sneakers, Coin Magnet, and Hoverboard enhance gameplay and allow players to reach higher scores. Daily challenges, missions, and seasonal events give consistent goals for players to chase. The game’s smooth animations, vibrant art style, and catchy music make it appealing to players of all ages. Customization options allow unlocking outfits, boards, and special characters. Despite being simple at its core, Subway Surfers continues to evolve with fresh features, limited-time events, and updated visuals, making it a timeless mobile classic.",
+    "ratings": "4.5",
+    "developer": "SYBO Games"
+  },
+  {
+    "id": "25",
+    "title": "Temple Run 2",
+    "coverPhoto": "https://upload.wikimedia.org/wikipedia/en/5/5e/Temple_Run_2_logo.png",
+    "category": "Endless Runner",
+    "downloadLink": "https://imangi.com/temple-run-2",
+    "description": "Temple Run 2 expands on the original with improved graphics, smoother movement, and exciting new mechanics. Players guide their character through ancient ruins, forests, cliffs, and mines while being chased by a giant demon monkey. Swipes and tilts allow jumping, sliding, turning, and collecting coins. The game introduces new obstacles like zip-lines, mine carts, waterfalls, and rotating platforms that add variety and challenge. Each environment is beautifully crafted with vibrant colors and dynamic camera angles. Characters can equip power-ups such as shields, coin bonuses, and speed boosts to enhance runs. Objectives and daily challenges give players goals, while the upgrade system allows improving abilities like coin value, magnet duration, and power meter refill rate. Seasonal updates introduce themed maps and limited-time items. Temple Run 2’s simple yet addictive mechanics, combined with consistently fresh content, ensure it remains one of the top endless runner games worldwide.",
+    "ratings": "4.4",
+    "developer": "Imangi Studios"
+  },
+  {
+    "id": "26",
+    "title": "Among Us",
+    "coverPhoto": "https://upload.wikimedia.org/wikipedia/en/9/9f/Among_Us_Logo.jpg",
+    "category": "Social Deduction",
+    "downloadLink": "https://innersloth.com/gameAmongUs",
+    "description": "Among Us is a social deduction game where teamwork and betrayal collide aboard space-themed environments. Players take on the roles of Crewmates or Impostors. Crewmates must complete tasks across the map while trying to identify Impostors among them. Meanwhile, Impostors sabotage systems, eliminate crewmates, and manipulate discussions to avoid suspicion. The game thrives on communication, strategy, and bluffing, especially during emergency meetings where players debate who to vote out. Map variety—from The Skeld to Airship—adds unique layouts and task types. Custom game settings allow adjusting vision ranges, kill cooldowns, player speed, and number of Impostors, making matches highly customizable. Cosmetic skins, hats, and pets add personality. The game supports cross-play across platforms, making it easy for friends to play together. Regular updates introduce new roles, maps, and quality-of-life improvements. Among Us stands out as a fun, chaotic, and social experience that becomes even more entertaining with larger groups or voice chat.",
+    "ratings": "4.2",
+    "developer": "Innersloth"
+  },
+  {
+    "id": "27",
+    "title": "Terraria Mobile",
+    "coverPhoto": "https://upload.wikimedia.org/wikipedia/en/0/05/Terraria_Logo.png",
+    "category": "Sandbox Adventure",
+    "downloadLink": "https://terraria.org",
+    "description": "Terraria Mobile is a 2D sandbox adventure that blends exploration, combat, crafting, and building in a world full of secrets. Players start with basic tools and must gather resources to expand their capabilities, craft weapons, and create shelters. The game is known for its deep progression, featuring hundreds of items, bosses, biomes, and crafting recipes. Exploration is rewarding, with underground caverns, floating islands, deserts, oceans, and corrupted lands offering unique challenges. Combat is dynamic, with weapons ranging from swords and bows to magical staves and explosive gear. Boss battles like Eye of Cthulhu, Skeletron, and the Wall of Flesh serve as major milestones that unlock new tiers of progression. Terraria Mobile includes multiplayer support, allowing players to build, explore, and fight together. Touch controls are customizable and optimized for smooth play. Frequent updates add new items, balancing, and late-game content. With its deep crafting system, charming pixel art, and massive world, Terraria Mobile delivers endless adventure and replayability.",
+    "ratings": "4.7",
+    "developer": "Re-Logic"
+  },
+  {
+    "id": "28",
+    "title": "Roblox",
+    "coverPhoto": "https://upload.wikimedia.org/wikipedia/en/6/6b/Roblox_Logo_2022.png",
+    "category": "User-Generated Sandbox",
+    "downloadLink": "https://www.roblox.com",
+    "description": "Roblox is a massive online platform that allows users to play, create, and share games within an ever-expanding virtual universe. Instead of being a single game, Roblox hosts millions of user-generated experiences, ranging from adventure games and simulators to shooters and roleplaying worlds. Players can customize their avatars with clothing, accessories, animations, and emotes. The platform encourages creativity through its development engine, Roblox Studio, where users can build full games using intuitive tools and Lua scripting. Social features such as friends lists, chat, private servers, and community groups enhance the multiplayer experience. Events, limited-time items, and collaborations with brands or celebrities keep the ecosystem lively. Roblox is constantly updated with new features, improved graphics, and enhanced safety systems. Whether exploring worlds created by others or designing their own dream game, Roblox provides players with limitless possibilities and an active global community.",
+    "ratings": "4.6",
+    "developer": "Roblox Corporation"
+  },
+  {
+    "id": "29",
+    "title": "GTA: San Andreas – Mobile Edition",
+    "coverPhoto": "https://upload.wikimedia.org/wikipedia/en/c/c4/GTASABOX.jpg",
+    "category": "Open World Action",
+    "downloadLink": "https://www.rockstargames.com",
+    "description": "GTA: San Andreas – Mobile Edition brings the legendary open-world action experience to mobile devices with enhanced visuals, touch controls, and improved performance. The story follows Carl “CJ” Johnson as he returns to Los Santos and becomes entangled in gang conflicts, corruption, and family drama. Players can freely explore three massive cities—Los Santos, San Fierro, and Las Venturas—each filled with missions, side activities, vehicles, shops, and hidden secrets. The world feels alive with pedestrians, traffic, dynamic weather, and a day-night cycle. Gameplay offers a mix of shooting, driving, flying, and exploration. RPG mechanics allow CJ to build skills like stamina, driving, and weapon proficiency. The mobile version includes adjustable graphics, customizable controls, and cloud save support. Whether completing story missions, participating in street races, or causing chaos in the city, San Andreas delivers endless fun. It remains one of the most influential and replayable open-world games ever created.",
+    "ratings": "4.7",
+    "developer": "Rockstar Games"
+  },
+  {
+    "id": "30",
+    "title": "Candy Crush Saga",
+    "coverPhoto": "https://upload.wikimedia.org/wikipedia/en/7/7c/Candy_Crush_Saga.png",
+    "category": "Puzzle",
+    "downloadLink": "https://king.com/game/candycrush",
+    "description": "Candy Crush Saga is a highly addictive match-3 puzzle game that has captivated millions of players worldwide. The game’s core mechanic involves matching colorful candies to clear levels, each with different objectives such as collecting ingredients, clearing jelly, or achieving a high score within limited moves. The progression system spans thousands of levels, ensuring players always have new challenges. Boosters like color bombs, striped candies, and wrapped candies add strategic depth and allow creative combinations. The game introduces new mechanics regularly, such as chocolate spread, licorice blockers, candies with special effects, and multi-layer obstacles. Events, daily rewards, and challenge modes keep players engaged. Candy Crush Saga’s bright visuals, cheerful animations, and relaxing sound design create a satisfying gameplay loop. Despite its simple concept, it requires strategic planning at higher levels, making it appealing to both casual and dedicated puzzle fans. Its frequent updates and massive level count ensure that the fun never stops.",
+    "ratings": "4.6",
+    "developer": "King"
+  }
+
 ]
