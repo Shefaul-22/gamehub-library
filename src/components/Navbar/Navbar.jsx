@@ -23,15 +23,39 @@ const Navbar = () => {
 
     const links = <>
 
+        {
+            user ? <>
+                <li><NavLink to="/" className={({ isActive }) =>
+                    `btn btn-primary mr-3 mb-2  ${isActive ? "!bg-yellow-500 " : ""}`} end>Home</NavLink></li>
+
+                <li><NavLink to="/allgames" className={({ isActive }) =>
+                    `btn btn-primary mr-3 mb-2  ${isActive ? "!bg-yellow-500 " : ""}`} end>All Games</NavLink>
+                </li>
 
 
-        <li><NavLink to="/" className={({ isActive }) =>
-            `btn btn-primary mr-3 mb-2 mt-1 ${isActive ? "!bg-yellow-500 " : "" }`} end>Home</NavLink></li>
-            
-        <li><NavLink to="/allgames" className={({ isActive }) =>
-            `btn btn-primary mr-3 mb-2 mt-1 ${isActive ? "!bg-yellow-500 " : ""}` } end>All Games</NavLink>
-        </li>
+            </> : <>
 
+                <li><NavLink to="/" className={({ isActive }) =>
+                    `btn btn-primary mr-3 mb-2  ${isActive ? "!bg-yellow-500 " : ""}`} end>Home</NavLink></li>
+
+                <li><NavLink to="/allgames" className={({ isActive }) =>
+                    `btn btn-primary mr-3 mb-2  ${isActive ? "!bg-yellow-500 " : ""}`} end>All Games</NavLink>
+                </li>
+
+                <li>
+                    <NavLink
+                        to="/register"
+                        className={({ isActive }) =>
+                            `btn btn-primary mr-3 mb-2 transition-all duration-200 ${isActive ? "!bg-yellow-500 " : ""}`
+                        }
+                    >
+                        Register
+                    </NavLink>
+                </li>
+
+            </>
+
+        }
 
 
     </>
@@ -68,8 +92,8 @@ const Navbar = () => {
 
 
             <div className="navbar-end">
-                <div className="navbar-center ml-15 hidden lg:flex">
-                    <ul className="menu menu-horizontal px-1">
+                <div className="navbar-center ml-15 hidden md:flex">
+                    <ul className=" flex gap-3 menu menu-horizontal px-1">
 
                         {
                             links
@@ -107,14 +131,6 @@ const Navbar = () => {
                 ) : (
                     <div className='flex items-center justify-center'>
 
-                        <NavLink
-                            to="/register"
-                            className={({ isActive }) =>
-                                `btn btn-primary mr-3 mb-2 transition-all duration-200 ${isActive ? "!bg-yellow-500 " : ""}`
-                            }
-                        >
-                            Register
-                        </NavLink>
 
                         <NavLink
                             to="/login"
