@@ -8,13 +8,11 @@ const Allgames = () => {
 
     const [loading, setLoading] = useState(true)
 
-    // useEffect(() => {
-    //     document.title = 'All Games | GameHubLibrary';
-    // }, []);
+    useEffect(() => {
+        document.title = 'All Games | GameHubLibrary';
+    }, []);
 
     useEffect(() => {
-
-        document.title = 'All Games | GameHubLibrary';
 
         fetch('/allgames.json')
             .then(res => res.json())

@@ -11,9 +11,10 @@ const useDynamicTitle = () => {
             document.title = 'Home | GameHubLibrary';
         }
 
-        // else if(pathname === '/allgames') {
-        //     document.title = 'All Games | GameHubLibrary';
-        // }
+        else if(pathname === '/allgames') {
+            document.title = 'All Games | GameHubLibrary';
+        }
+        
         else if (pathname === '/login') {
             document.title = 'Login | GameHubLibrary';
 
