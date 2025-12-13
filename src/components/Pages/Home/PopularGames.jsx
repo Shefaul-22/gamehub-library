@@ -16,7 +16,7 @@ const PopularGames = ({ gamesData }) => {
 
     return (
         <div className='bg-[#bdd7e7] py-14 md:py-20  px-8 md:px-4'>
-            <h2 className='font-bold text-center text-5xl mb-4'>Popular Games</h2>
+            <h2 className='font-bold text-center text-2xl md:text-4xl lg:text-5xl mb-4'>Popular Games</h2>
             <p className='text-center text-xs md:text-xl text-gray-800'>Explore All Popular games on the Market developed by Unity</p>
 
             <div className='max-w-7xl mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5 mt-10'>
