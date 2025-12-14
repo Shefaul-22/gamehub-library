@@ -1,16 +1,50 @@
-# React + Vite
+# GameHub Library
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Purpose
 
-Currently, two official plugins are available:
+GameHub Library is a web-based application that allows users to explore and organize a collection of games in one platform. The main purpose of this project is to practice building a modern React application with proper routing, component structure, and responsive design. It focuses on delivering a smooth user experience while managing dynamic game-related data.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Live URL
 
-## React Compiler
+🔗 Live Site: [https://gamehub-library.web.app/](https://gamehub-library.web.app/)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## GitHub Repository
 
-## Expanding the ESLint configuration
+🔗 GitHub Repo: [https://github.com/Shefaul-22/gamehub-library](https://github.com/Shefaul-22/gamehub-library)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Key Features
+
+* Browse and explore a collection of games
+* Responsive design for mobile, tablet, and desktop
+* Dynamic routing using React Router
+* Clean and user-friendly interface
+* Reusable components for better code maintainability
+
+## Technologies Used
+
+* React
+* JavaScript (ES6+)
+* Tailwind CSS
+* Firebase Hosting
+
+## NPM Packages Used
+
+* react
+* react-dom
+* react-router
+* firebase
+* react-icons
+* framer-motion
+* tailwindcss
+* daisyui
+* @tailwindcss/vite
+
+## Installation & Setup
+
+1. Clone the repository from GitHub
+2. Run `npm install` to install required dependencies
+3. Run `npm run dev` to start the project locally
+
+## Author
+
+Developed by **Shefaul Karim**
