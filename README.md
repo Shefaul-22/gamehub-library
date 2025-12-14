@@ -15,6 +15,7 @@ GameHub Library is a web-based application that allows users to explore and orga
 ## Key Features
 
 * Browse and explore a collection of games
+* See game details if user logged in
 * Responsive design for mobile, tablet, and desktop
 * Dynamic routing using React Router
 * Clean and user-friendly interface
